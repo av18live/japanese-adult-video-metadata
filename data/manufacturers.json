@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2025-12-30T06:01:05.495Z",
+  "updated": "2025-12-31T00:00:28.279Z",
   "count": 100,
   "data": [
     {
@@ -10,17 +10,17 @@
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 826,
+      "video_count": 829,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
       "name": "瑪丹娜",
-      "video_count": 782,
+      "video_count": 785,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%91%AA%E4%B8%B9%E5%A8%9C"
     },
     {
       "name": "S1 Style",
-      "video_count": 493,
+      "video_count": 499,
       "url": "https://ja6play.com/tw/category/manufacturer/S1%20Style"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "VENUS",
-      "video_count": 217,
+      "video_count": 223,
       "url": "https://ja6play.com/tw/category/manufacturer/VENUS"
     },
     {
@@ -59,14 +59,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/Fitch"
     },
     {
+      "name": "TAKARA",
+      "video_count": 191,
+      "url": "https://ja6play.com/tw/category/manufacturer/TAKARA"
+    },
+    {
       "name": "センタービレッジ",
       "video_count": 190,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%E3%83%83%E3%82%B8"
-    },
-    {
-      "name": "TAKARA",
-      "video_count": 189,
-      "url": "https://ja6play.com/tw/category/manufacturer/TAKARA"
     },
     {
       "name": "水晶映像",
@@ -80,7 +80,7 @@
     },
     {
       "name": "プラネットプラス",
-      "video_count": 177,
+      "video_count": 178,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9"
     },
     {
@@ -165,13 +165,18 @@
     },
     {
       "name": "ロイヤル",
-      "video_count": 76,
+      "video_count": 77,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB"
     },
     {
       "name": "S-Cute",
       "video_count": 76,
       "url": "https://ja6play.com/tw/category/manufacturer/S-Cute"
+    },
+    {
+      "name": "マザー",
+      "video_count": 72,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9E%E3%82%B6%E3%83%BC"
     },
     {
       "name": "ドグマ",
@@ -182,11 +187,6 @@
       "name": "funcity/妄想族",
       "video_count": 71,
       "url": "https://ja6play.com/tw/category/manufacturer/funcity%2F%E5%A6%84%E6%83%B3%E6%97%8F"
-    },
-    {
-      "name": "マザー",
-      "video_count": 69,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9E%E3%82%B6%E3%83%BC"
     },
     {
       "name": "スパイスビジュアル",
@@ -329,14 +329,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AC%E3%82%A4%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9"
     },
     {
+      "name": "ROOKIE",
+      "video_count": 33,
+      "url": "https://ja6play.com/tw/category/manufacturer/ROOKIE"
+    },
+    {
       "name": "fair＆way",
       "video_count": 32,
       "url": "https://ja6play.com/tw/category/manufacturer/fair%EF%BC%86way"
-    },
-    {
-      "name": "ROOKIE",
-      "video_count": 32,
-      "url": "https://ja6play.com/tw/category/manufacturer/ROOKIE"
     },
     {
       "name": "プラム",
@@ -444,6 +444,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B5%E3%83%87%E3%82%A3%E3%83%B4%E3%82%A3%E3%83%AC%E3%83%8A%E3%82%A6%EF%BC%81"
     },
     {
+      "name": "オリンポス",
+      "video_count": 18,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%9D%E3%82%B9"
+    },
+    {
       "name": "prestige",
       "video_count": 18,
       "url": "https://ja6play.com/tw/category/manufacturer/prestige"
@@ -457,11 +462,6 @@
       "name": "NON",
       "video_count": 18,
       "url": "https://ja6play.com/tw/category/manufacturer/NON"
-    },
-    {
-      "name": "オリンポス",
-      "video_count": 17,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%9D%E3%82%B9"
     },
     {
       "name": "NADESIKO",
