@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2025-12-31T00:00:28.279Z",
+  "updated": "2026-01-01T00:00:30.023Z",
   "count": 100,
   "data": [
     {
@@ -169,14 +169,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB"
     },
     {
+      "name": "マザー",
+      "video_count": 76,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9E%E3%82%B6%E3%83%BC"
+    },
+    {
       "name": "S-Cute",
       "video_count": 76,
       "url": "https://ja6play.com/tw/category/manufacturer/S-Cute"
-    },
-    {
-      "name": "マザー",
-      "video_count": 72,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9E%E3%82%B6%E3%83%BC"
     },
     {
       "name": "ドグマ",
@@ -429,6 +429,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/Hibino"
     },
     {
+      "name": "オリンポス",
+      "video_count": 19,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%9D%E3%82%B9"
+    },
+    {
       "name": "hsoda",
       "video_count": 19,
       "url": "https://ja6play.com/tw/category/manufacturer/hsoda"
@@ -442,11 +447,6 @@
       "name": "サディヴィレナウ！",
       "video_count": 18,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B5%E3%83%87%E3%82%A3%E3%83%B4%E3%82%A3%E3%83%AC%E3%83%8A%E3%82%A6%EF%BC%81"
-    },
-    {
-      "name": "オリンポス",
-      "video_count": 18,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%9D%E3%82%B9"
     },
     {
       "name": "prestige",
