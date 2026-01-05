@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-01-04T00:00:29.600Z",
+  "updated": "2026-01-05T00:00:18.445Z",
   "count": 100,
   "data": [
     {
@@ -10,12 +10,12 @@
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 843,
+      "video_count": 849,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
       "name": "瑪丹娜",
-      "video_count": 787,
+      "video_count": 789,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%91%AA%E4%B8%B9%E5%A8%9C"
     },
     {
@@ -25,12 +25,12 @@
     },
     {
       "name": "無資料",
-      "video_count": 429,
+      "video_count": 432,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
       "name": "SOD",
-      "video_count": 324,
+      "video_count": 326,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "name": "IDEA POCKET",
-      "video_count": 285,
+      "video_count": 286,
       "url": "https://ja6play.com/tw/category/manufacturer/IDEA%20POCKET"
     },
     {
@@ -80,7 +80,7 @@
     },
     {
       "name": "gloryquest",
-      "video_count": 181,
+      "video_count": 182,
       "url": "https://ja6play.com/tw/category/manufacturer/gloryquest"
     },
     {
@@ -120,7 +120,7 @@
     },
     {
       "name": "ABC/妄想族",
-      "video_count": 109,
+      "video_count": 110,
       "url": "https://ja6play.com/tw/category/manufacturer/ABC%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
@@ -199,6 +199,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%81%AA%E3%81%8C%E3%81%88%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB"
     },
     {
+      "name": "WAAP",
+      "video_count": 57,
+      "url": "https://ja6play.com/tw/category/manufacturer/WAAP"
+    },
+    {
       "name": "mercury（マーキュリー）",
       "video_count": 56,
       "url": "https://ja6play.com/tw/category/manufacturer/mercury%EF%BC%88%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%BC%EF%BC%89"
@@ -207,11 +212,6 @@
       "name": "MAXING",
       "video_count": 56,
       "url": "https://ja6play.com/tw/category/manufacturer/MAXING"
-    },
-    {
-      "name": "WAAP",
-      "video_count": 54,
-      "url": "https://ja6play.com/tw/category/manufacturer/WAAP"
     },
     {
       "name": "えむっ娘ラボ",
@@ -269,6 +269,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E4%BA%BA%E5%A6%BB%E8%8A%B1%E5%9C%92%E5%8A%87%E5%A0%B4"
     },
     {
+      "name": "豊彦",
+      "video_count": 38,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E8%B1%8A%E5%BD%A6"
+    },
+    {
       "name": "グローバルメディアエンタテインメント",
       "video_count": 38,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88"
@@ -287,11 +292,6 @@
       "name": "DREAM TICKET",
       "video_count": 38,
       "url": "https://ja6play.com/tw/category/manufacturer/DREAM%20TICKET"
-    },
-    {
-      "name": "豊彦",
-      "video_count": 37,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E8%B1%8A%E5%BD%A6"
     },
     {
       "name": "intec inc",
@@ -319,6 +319,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%81%8B%E3%81%90%E3%82%84%E5%A7%ABpt%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
+      "name": "プラム",
+      "video_count": 34,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%A0"
+    },
+    {
       "name": "グローバルメディアアネックス",
       "video_count": 34,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
@@ -337,11 +342,6 @@
       "name": "fair＆way",
       "video_count": 32,
       "url": "https://ja6play.com/tw/category/manufacturer/fair%EF%BC%86way"
-    },
-    {
-      "name": "プラム",
-      "video_count": 30,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%A0"
     },
     {
       "name": "人妻援護会/エマニエル",
@@ -424,6 +424,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/fa%E3%83%97%E3%83%AD"
     },
     {
+      "name": "NON",
+      "video_count": 20,
+      "url": "https://ja6play.com/tw/category/manufacturer/NON"
+    },
+    {
       "name": "Hibino",
       "video_count": 20,
       "url": "https://ja6play.com/tw/category/manufacturer/Hibino"
@@ -454,11 +459,6 @@
       "url": "https://ja6play.com/tw/category/manufacturer/halentino%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
-      "name": "NON",
-      "video_count": 19,
-      "url": "https://ja6play.com/tw/category/manufacturer/NON"
-    },
-    {
       "name": "光夜蝶",
       "video_count": 18,
       "url": "https://ja6play.com/tw/category/manufacturer/%E5%85%89%E5%A4%9C%E8%9D%B6"
@@ -474,14 +474,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/kira%E2%98%86kira"
     },
     {
+      "name": "TMA",
+      "video_count": 17,
+      "url": "https://ja6play.com/tw/category/manufacturer/TMA"
+    },
+    {
       "name": "NADESIKO",
       "video_count": 17,
       "url": "https://ja6play.com/tw/category/manufacturer/NADESIKO"
-    },
-    {
-      "name": "TMA",
-      "video_count": 16,
-      "url": "https://ja6play.com/tw/category/manufacturer/TMA"
     },
     {
       "name": "オルスタックソフト",
@@ -494,14 +494,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%BE%8E%E4%BA%BA%E9%AD%94%E5%A5%B3%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
+      "name": "熟女大学/熟女卍",
+      "video_count": 14,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E7%86%9F%E5%A5%B3%E5%A4%A7%E5%AD%A6%2F%E7%86%9F%E5%A5%B3%E5%8D%8D"
+    },
+    {
       "name": "メディアブランド",
       "video_count": 14,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89"
-    },
-    {
-      "name": "teppan",
-      "video_count": 14,
-      "url": "https://ja6play.com/tw/category/manufacturer/teppan"
     }
   ]
 }
