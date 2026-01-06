@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-01-05T00:00:18.445Z",
+  "updated": "2026-01-06T00:00:26.908Z",
   "count": 100,
   "data": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 849,
+      "video_count": 852,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "S1 Style",
-      "video_count": 500,
+      "video_count": 501,
       "url": "https://ja6play.com/tw/category/manufacturer/S1%20Style"
     },
     {
@@ -50,13 +50,18 @@
     },
     {
       "name": "VENUS",
-      "video_count": 227,
+      "video_count": 229,
       "url": "https://ja6play.com/tw/category/manufacturer/VENUS"
     },
     {
       "name": "Fitch",
       "video_count": 216,
       "url": "https://ja6play.com/tw/category/manufacturer/Fitch"
+    },
+    {
+      "name": "プラネットプラス",
+      "video_count": 195,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9"
     },
     {
       "name": "TAKARA",
@@ -67,11 +72,6 @@
       "name": "センタービレッジ",
       "video_count": 190,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%E3%83%83%E3%82%B8"
-    },
-    {
-      "name": "プラネットプラス",
-      "video_count": 186,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9"
     },
     {
       "name": "水晶映像",
