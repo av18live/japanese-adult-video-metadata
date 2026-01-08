@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-01-07T00:00:47.319Z",
+  "updated": "2026-01-08T00:00:22.975Z",
   "count": 100,
   "data": [
     {
@@ -10,12 +10,12 @@
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 852,
+      "video_count": 855,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
       "name": "瑪丹娜",
-      "video_count": 791,
+      "video_count": 792,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%91%AA%E4%B8%B9%E5%A8%9C"
     },
     {
@@ -25,12 +25,12 @@
     },
     {
       "name": "無資料",
-      "video_count": 433,
+      "video_count": 434,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
       "name": "SOD",
-      "video_count": 332,
+      "video_count": 335,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "name": "水晶映像",
-      "video_count": 185,
+      "video_count": 189,
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%B0%B4%E6%99%B6%E6%98%A0%E5%83%8F"
     },
     {
@@ -149,6 +149,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/MAX-A"
     },
     {
+      "name": "ロイヤル",
+      "video_count": 84,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB"
+    },
+    {
       "name": "jet映像",
       "video_count": 82,
       "url": "https://ja6play.com/tw/category/manufacturer/jet%E6%98%A0%E5%83%8F"
@@ -167,11 +172,6 @@
       "name": "S-Cute",
       "video_count": 79,
       "url": "https://ja6play.com/tw/category/manufacturer/S-Cute"
-    },
-    {
-      "name": "ロイヤル",
-      "video_count": 78,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB"
     },
     {
       "name": "funcity/妄想族",
@@ -439,6 +439,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/Hibino"
     },
     {
+      "name": "サディヴィレナウ！",
+      "video_count": 19,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B5%E3%83%87%E3%82%A3%E3%83%B4%E3%82%A3%E3%83%AC%E3%83%8A%E3%82%A6%EF%BC%81"
+    },
+    {
       "name": "オリンポス",
       "video_count": 19,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%9D%E3%82%B9"
@@ -462,11 +467,6 @@
       "name": "光夜蝶",
       "video_count": 18,
       "url": "https://ja6play.com/tw/category/manufacturer/%E5%85%89%E5%A4%9C%E8%9D%B6"
-    },
-    {
-      "name": "サディヴィレナウ！",
-      "video_count": 18,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B5%E3%83%87%E3%82%A3%E3%83%B4%E3%82%A3%E3%83%AC%E3%83%8A%E3%82%A6%EF%BC%81"
     },
     {
       "name": "kira☆kira",
