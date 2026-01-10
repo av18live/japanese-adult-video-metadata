@@ -1,11 +1,11 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-01-09T00:00:54.388Z",
+  "updated": "2026-01-10T00:00:55.969Z",
   "count": 100,
   "data": [
     {
       "name": "MOODYZ",
-      "video_count": 903,
+      "video_count": 909,
       "url": "https://ja6play.com/tw/category/manufacturer/MOODYZ"
     },
     {
@@ -15,27 +15,27 @@
     },
     {
       "name": "瑪丹娜",
-      "video_count": 792,
+      "video_count": 793,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%91%AA%E4%B8%B9%E5%A8%9C"
     },
     {
       "name": "S1 Style",
-      "video_count": 501,
+      "video_count": 510,
       "url": "https://ja6play.com/tw/category/manufacturer/S1%20Style"
     },
     {
       "name": "無資料",
-      "video_count": 438,
+      "video_count": 444,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
       "name": "SOD",
-      "video_count": 335,
+      "video_count": 338,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
       "name": "ATTACKERS",
-      "video_count": 313,
+      "video_count": 314,
       "url": "https://ja6play.com/tw/category/manufacturer/ATTACKERS"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "VENUS",
-      "video_count": 229,
+      "video_count": 233,
       "url": "https://ja6play.com/tw/category/manufacturer/VENUS"
     },
     {
@@ -399,6 +399,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88"
     },
     {
+      "name": "mr.michiru",
+      "video_count": 23,
+      "url": "https://ja6play.com/tw/category/manufacturer/mr.michiru"
+    },
+    {
       "name": "マッシュルーム/妄想族",
       "video_count": 22,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0%2F%E5%A6%84%E6%83%B3%E6%97%8F"
@@ -407,11 +412,6 @@
       "name": "バビロン/妄想族",
       "video_count": 22,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%90%E3%83%93%E3%83%AD%E3%83%B3%2F%E5%A6%84%E6%83%B3%E6%97%8F"
-    },
-    {
-      "name": "mr.michiru",
-      "video_count": 22,
-      "url": "https://ja6play.com/tw/category/manufacturer/mr.michiru"
     },
     {
       "name": "Hibino",
