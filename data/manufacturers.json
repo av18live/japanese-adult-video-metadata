@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-01-11T00:00:42.157Z",
+  "updated": "2026-01-12T00:00:48.649Z",
   "count": 100,
   "data": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 864,
+      "video_count": 865,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "ATTACKERS",
-      "video_count": 322,
+      "video_count": 323,
       "url": "https://ja6play.com/tw/category/manufacturer/ATTACKERS"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "VENUS",
-      "video_count": 233,
+      "video_count": 234,
       "url": "https://ja6play.com/tw/category/manufacturer/VENUS"
     },
     {
@@ -89,14 +89,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%9C%AC%E4%B8%AD"
     },
     {
+      "name": "kawaii",
+      "video_count": 150,
+      "url": "https://ja6play.com/tw/category/manufacturer/kawaii"
+    },
+    {
       "name": "PREMIUM",
       "video_count": 150,
       "url": "https://ja6play.com/tw/category/manufacturer/PREMIUM"
-    },
-    {
-      "name": "kawaii",
-      "video_count": 149,
-      "url": "https://ja6play.com/tw/category/manufacturer/kawaii"
     },
     {
       "name": "セレブの友",
