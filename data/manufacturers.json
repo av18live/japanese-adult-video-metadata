@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-01-13T00:00:58.804Z",
+  "updated": "2026-01-14T00:00:49.591Z",
   "count": 100,
   "data": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "SOD",
-      "video_count": 340,
+      "video_count": 347,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
@@ -139,6 +139,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/RUBY"
     },
     {
+      "name": "MAX-A",
+      "video_count": 92,
+      "url": "https://ja6play.com/tw/category/manufacturer/MAX-A"
+    },
+    {
       "name": "rebecca",
       "video_count": 89,
       "url": "https://ja6play.com/tw/category/manufacturer/rebecca"
@@ -147,11 +152,6 @@
       "name": "jet映像",
       "video_count": 87,
       "url": "https://ja6play.com/tw/category/manufacturer/jet%E6%98%A0%E5%83%8F"
-    },
-    {
-      "name": "MAX-A",
-      "video_count": 86,
-      "url": "https://ja6play.com/tw/category/manufacturer/MAX-A"
     },
     {
       "name": "ロイヤル",
