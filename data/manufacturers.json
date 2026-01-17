@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-01-16T00:00:55.519Z",
+  "updated": "2026-01-17T00:00:40.716Z",
   "count": 100,
   "data": [
     {
@@ -20,12 +20,12 @@
     },
     {
       "name": "S1 Style",
-      "video_count": 518,
+      "video_count": 519,
       "url": "https://ja6play.com/tw/category/manufacturer/S1%20Style"
     },
     {
       "name": "無資料",
-      "video_count": 446,
+      "video_count": 448,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "name": "IDEA POCKET",
-      "video_count": 310,
+      "video_count": 319,
       "url": "https://ja6play.com/tw/category/manufacturer/IDEA%20POCKET"
     },
     {
@@ -50,12 +50,12 @@
     },
     {
       "name": "VENUS",
-      "video_count": 241,
+      "video_count": 243,
       "url": "https://ja6play.com/tw/category/manufacturer/VENUS"
     },
     {
       "name": "Fitch",
-      "video_count": 219,
+      "video_count": 220,
       "url": "https://ja6play.com/tw/category/manufacturer/Fitch"
     },
     {
@@ -89,14 +89,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%9C%AC%E4%B8%AD"
     },
     {
+      "name": "PREMIUM",
+      "video_count": 153,
+      "url": "https://ja6play.com/tw/category/manufacturer/PREMIUM"
+    },
+    {
       "name": "kawaii",
       "video_count": 150,
       "url": "https://ja6play.com/tw/category/manufacturer/kawaii"
-    },
-    {
-      "name": "PREMIUM",
-      "video_count": 150,
-      "url": "https://ja6play.com/tw/category/manufacturer/PREMIUM"
     },
     {
       "name": "セレブの友",
@@ -165,7 +165,7 @@
     },
     {
       "name": "OPPAI",
-      "video_count": 81,
+      "video_count": 83,
       "url": "https://ja6play.com/tw/category/manufacturer/OPPAI"
     },
     {
@@ -439,6 +439,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E4%B8%89%E5%92%8C%E5%87%BA%E7%89%88"
     },
     {
+      "name": "prestige",
+      "video_count": 20,
+      "url": "https://ja6play.com/tw/category/manufacturer/prestige"
+    },
+    {
       "name": "NON",
       "video_count": 20,
       "url": "https://ja6play.com/tw/category/manufacturer/NON"
@@ -452,11 +457,6 @@
       "name": "オリンポス",
       "video_count": 19,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%9D%E3%82%B9"
-    },
-    {
-      "name": "prestige",
-      "video_count": 19,
-      "url": "https://ja6play.com/tw/category/manufacturer/prestige"
     },
     {
       "name": "halentino/妄想族",
