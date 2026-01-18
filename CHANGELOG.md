@@ -2,12 +2,12 @@
 
 All notable updates to this dataset will be documented in this file.
 
-## 2026-01-17 00:00:43 UTC
+## 2026-01-18 00:00:51 UTC
 
-- 📹 **Videos**: Added 11 new videos (Total: 703)
-- 👤 **Actors**: 1653 entries
+- 📹 **Videos**: Added 89 new videos (Total: 792)
+- 👤 **Actors**: 1665 entries
 - 🏭 **Manufacturers**: 100 entries
-- 🏷️ **Tags**: 342 entries
+- 🏷️ **Tags**: 343 entries
 
 ---
 
