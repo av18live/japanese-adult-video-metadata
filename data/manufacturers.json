@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-01-28T00:00:22.507Z",
+  "updated": "2026-01-29T00:01:05.463Z",
   "count": 100,
   "data": [
     {
@@ -80,7 +80,7 @@
     },
     {
       "name": "gloryquest",
-      "video_count": 195,
+      "video_count": 196,
       "url": "https://ja6play.com/tw/category/manufacturer/gloryquest"
     },
     {
@@ -229,6 +229,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%97%B4%E5%A5%B3%E3%83%98%E3%83%96%E3%83%B3"
     },
     {
+      "name": "h.m.p",
+      "video_count": 54,
+      "url": "https://ja6play.com/tw/category/manufacturer/h.m.p"
+    },
+    {
       "name": "レアルワークス",
       "video_count": 53,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AC%E3%82%A2%E3%83%AB%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9"
@@ -237,11 +242,6 @@
       "name": "M&#039;s Video",
       "video_count": 52,
       "url": "https://ja6play.com/tw/category/manufacturer/M%26%23039%3Bs%20Video"
-    },
-    {
-      "name": "h.m.p",
-      "video_count": 51,
-      "url": "https://ja6play.com/tw/category/manufacturer/h.m.p"
     },
     {
       "name": "DEEPS",
