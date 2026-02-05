@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-02-04T00:00:15.259Z",
+  "updated": "2026-02-05T00:01:06.767Z",
   "count": 100,
   "data": [
     {
@@ -15,12 +15,12 @@
     },
     {
       "name": "瑪丹娜",
-      "video_count": 867,
+      "video_count": 868,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%91%AA%E4%B8%B9%E5%A8%9C"
     },
     {
       "name": "S1 Style",
-      "video_count": 565,
+      "video_count": 566,
       "url": "https://ja6play.com/tw/category/manufacturer/S1%20Style"
     },
     {
@@ -69,14 +69,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9"
     },
     {
+      "name": "水晶映像",
+      "video_count": 200,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E6%B0%B4%E6%99%B6%E6%98%A0%E5%83%8F"
+    },
+    {
       "name": "TAKARA",
       "video_count": 200,
       "url": "https://ja6play.com/tw/category/manufacturer/TAKARA"
-    },
-    {
-      "name": "水晶映像",
-      "video_count": 199,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E6%B0%B4%E6%99%B6%E6%98%A0%E5%83%8F"
     },
     {
       "name": "gloryquest",
@@ -134,6 +134,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/First%20Star"
     },
     {
+      "name": "ロイヤル",
+      "video_count": 98,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB"
+    },
+    {
       "name": "MAX-A",
       "video_count": 97,
       "url": "https://ja6play.com/tw/category/manufacturer/MAX-A"
@@ -142,11 +147,6 @@
       "name": "RUBY",
       "video_count": 94,
       "url": "https://ja6play.com/tw/category/manufacturer/RUBY"
-    },
-    {
-      "name": "ロイヤル",
-      "video_count": 93,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB"
     },
     {
       "name": "rebecca",
