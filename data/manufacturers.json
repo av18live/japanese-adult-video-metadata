@@ -1,11 +1,11 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-02-06T00:00:58.478Z",
+  "updated": "2026-02-07T00:00:32.279Z",
   "count": 100,
   "data": [
     {
       "name": "MOODYZ",
-      "video_count": 974,
+      "video_count": 975,
       "url": "https://ja6play.com/tw/category/manufacturer/MOODYZ"
     },
     {
@@ -60,12 +60,12 @@
     },
     {
       "name": "センタービレッジ",
-      "video_count": 214,
+      "video_count": 215,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%E3%83%83%E3%82%B8"
     },
     {
       "name": "プラネットプラス",
-      "video_count": 212,
+      "video_count": 213,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9"
     },
     {
@@ -264,6 +264,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E8%A6%AA%E7%88%B6%E3%81%AE%E5%80%8B%E6%92%AE"
     },
     {
+      "name": "fs.knightsvisual",
+      "video_count": 41,
+      "url": "https://ja6play.com/tw/category/manufacturer/fs.knightsvisual"
+    },
+    {
       "name": "デジタルアーク",
       "video_count": 40,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A2%E3%83%BC%E3%82%AF"
@@ -272,11 +277,6 @@
       "name": "marrion",
       "video_count": 40,
       "url": "https://ja6play.com/tw/category/manufacturer/marrion"
-    },
-    {
-      "name": "fs.knightsvisual",
-      "video_count": 40,
-      "url": "https://ja6play.com/tw/category/manufacturer/fs.knightsvisual"
     },
     {
       "name": "KARMA",
@@ -329,6 +329,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%81%8B%E3%81%90%E3%82%84%E5%A7%ABpt%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
+      "name": "milk",
+      "video_count": 37,
+      "url": "https://ja6play.com/tw/category/manufacturer/milk"
+    },
+    {
       "name": "intec inc",
       "video_count": 37,
       "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
@@ -337,11 +342,6 @@
       "name": "ROOKIE",
       "video_count": 37,
       "url": "https://ja6play.com/tw/category/manufacturer/ROOKIE"
-    },
-    {
-      "name": "milk",
-      "video_count": 35,
-      "url": "https://ja6play.com/tw/category/manufacturer/milk"
     },
     {
       "name": "fair＆way",
