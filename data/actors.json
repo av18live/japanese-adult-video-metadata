@@ -1,7 +1,7 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-02-17T00:00:07.877Z",
-  "count": 1737,
+  "updated": "2026-02-18T00:00:49.371Z",
+  "count": 1738,
   "data": [
     {
       "name": "逢澤美優",
@@ -1194,6 +1194,11 @@
       "url": "https://ja6play.com/tw/category/actor/%E5%B0%8F%E9%88%B4%E3%81%BF%E3%81%8B%E3%82%93"
     },
     {
+      "name": "唯井真尋",
+      "video_count": 17,
+      "url": "https://ja6play.com/tw/category/actor/%E5%94%AF%E4%BA%95%E7%9C%9F%E5%B0%8B"
+    },
+    {
       "name": "倉木華",
       "video_count": 17,
       "url": "https://ja6play.com/tw/category/actor/%E5%80%89%E6%9C%A8%E8%8F%AF"
@@ -1299,9 +1304,9 @@
       "url": "https://ja6play.com/tw/category/actor/%E5%A4%A2%E4%B9%83%E6%84%9B%E8%8F%AF"
     },
     {
-      "name": "唯井真尋",
+      "name": "夏目響",
       "video_count": 16,
-      "url": "https://ja6play.com/tw/category/actor/%E5%94%AF%E4%BA%95%E7%9C%9F%E5%B0%8B"
+      "url": "https://ja6play.com/tw/category/actor/%E5%A4%8F%E7%9B%AE%E9%9F%BF"
     },
     {
       "name": "北村海智",
@@ -1402,11 +1407,6 @@
       "name": "天神羽衣",
       "video_count": 15,
       "url": "https://ja6play.com/tw/category/actor/%E5%A4%A9%E7%A5%9E%E7%BE%BD%E8%A1%A3"
-    },
-    {
-      "name": "夏目響",
-      "video_count": 15,
-      "url": "https://ja6play.com/tw/category/actor/%E5%A4%8F%E7%9B%AE%E9%9F%BF"
     },
     {
       "name": "城ヶ崎百瀬",
@@ -1512,6 +1512,11 @@
       "name": "山瀬美紀",
       "video_count": 14,
       "url": "https://ja6play.com/tw/category/actor/%E5%B1%B1%E7%80%AC%E7%BE%8E%E7%B4%80"
+    },
+    {
+      "name": "宮島芽衣",
+      "video_count": 14,
+      "url": "https://ja6play.com/tw/category/actor/%E5%AE%AE%E5%B3%B6%E8%8A%BD%E8%A1%A3"
     },
     {
       "name": "大谷双葉",
@@ -1647,11 +1652,6 @@
       "name": "川上優",
       "video_count": 13,
       "url": "https://ja6play.com/tw/category/actor/%E5%B7%9D%E4%B8%8A%E5%84%AA"
-    },
-    {
-      "name": "宮島芽衣",
-      "video_count": 13,
-      "url": "https://ja6play.com/tw/category/actor/%E5%AE%AE%E5%B3%B6%E8%8A%BD%E8%A1%A3"
     },
     {
       "name": "安堂春乃",
@@ -2344,6 +2344,11 @@
       "url": "https://ja6play.com/tw/category/actor/%E5%B1%B1%E6%9C%AC%E3%81%8B%E3%82%92%E3%82%8A"
     },
     {
+      "name": "小笠原菜乃",
+      "video_count": 8,
+      "url": "https://ja6play.com/tw/category/actor/%E5%B0%8F%E7%AC%A0%E5%8E%9F%E8%8F%9C%E4%B9%83"
+    },
+    {
       "name": "小椋ひかり",
       "video_count": 8,
       "url": "https://ja6play.com/tw/category/actor/%E5%B0%8F%E6%A4%8B%E3%81%B2%E3%81%8B%E3%82%8A"
@@ -2612,11 +2617,6 @@
       "name": "廣瀨好美",
       "video_count": 7,
       "url": "https://ja6play.com/tw/category/actor/%E5%BB%A3%E7%80%A8%E5%A5%BD%E7%BE%8E"
-    },
-    {
-      "name": "小笠原菜乃",
-      "video_count": 7,
-      "url": "https://ja6play.com/tw/category/actor/%E5%B0%8F%E7%AC%A0%E5%8E%9F%E8%8F%9C%E4%B9%83"
     },
     {
       "name": "小松杏",
@@ -7827,6 +7827,11 @@
       "name": "天野花乃",
       "video_count": 1,
       "url": "https://ja6play.com/tw/category/actor/%E5%A4%A9%E9%87%8E%E8%8A%B1%E4%B9%83"
+    },
+    {
+      "name": "大隈睦心",
+      "video_count": 1,
+      "url": "https://ja6play.com/tw/category/actor/%E5%A4%A7%E9%9A%88%E7%9D%A6%E5%BF%83"
     },
     {
       "name": "大石忍",
