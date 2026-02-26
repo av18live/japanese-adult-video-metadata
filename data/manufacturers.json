@@ -1,16 +1,16 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-02-25T00:00:54.832Z",
+  "updated": "2026-02-26T00:01:00.910Z",
   "count": 100,
   "data": [
     {
       "name": "MOODYZ",
-      "video_count": 1058,
+      "video_count": 1059,
       "url": "https://ja6play.com/tw/category/manufacturer/MOODYZ"
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 959,
+      "video_count": 970,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -25,12 +25,12 @@
     },
     {
       "name": "無資料",
-      "video_count": 494,
+      "video_count": 496,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
       "name": "SOD",
-      "video_count": 397,
+      "video_count": 401,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "name": "TAKARA",
-      "video_count": 215,
+      "video_count": 216,
       "url": "https://ja6play.com/tw/category/manufacturer/TAKARA"
     },
     {
@@ -165,7 +165,7 @@
     },
     {
       "name": "オーロラプロジェクト・アネックス",
-      "video_count": 94,
+      "video_count": 96,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
     },
     {
@@ -199,6 +199,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB"
     },
     {
+      "name": "ALICE JAPAN",
+      "video_count": 66,
+      "url": "https://ja6play.com/tw/category/manufacturer/ALICE%20JAPAN"
+    },
+    {
       "name": "DEEPS",
       "video_count": 65,
       "url": "https://ja6play.com/tw/category/manufacturer/DEEPS"
@@ -207,11 +212,6 @@
       "name": "MAXING",
       "video_count": 63,
       "url": "https://ja6play.com/tw/category/manufacturer/MAXING"
-    },
-    {
-      "name": "ALICE JAPAN",
-      "video_count": 63,
-      "url": "https://ja6play.com/tw/category/manufacturer/ALICE%20JAPAN"
     },
     {
       "name": "えむっ娘ラボ",
@@ -434,6 +434,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89"
     },
     {
+      "name": "kira☆kira",
+      "video_count": 23,
+      "url": "https://ja6play.com/tw/category/manufacturer/kira%E2%98%86kira"
+    },
+    {
       "name": "halentino/妄想族",
       "video_count": 23,
       "url": "https://ja6play.com/tw/category/manufacturer/halentino%2F%E5%A6%84%E6%83%B3%E6%97%8F"
@@ -444,24 +449,19 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%86%9F%E5%A5%B3%E5%A1%BE%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
+      "name": "三和出版",
+      "video_count": 22,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E4%B8%89%E5%92%8C%E5%87%BA%E7%89%88"
+    },
+    {
       "name": "prestige",
       "video_count": 22,
       "url": "https://ja6play.com/tw/category/manufacturer/prestige"
     },
     {
-      "name": "三和出版",
-      "video_count": 21,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E4%B8%89%E5%92%8C%E5%87%BA%E7%89%88"
-    },
-    {
       "name": "オリンポス",
       "video_count": 21,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%9D%E3%82%B9"
-    },
-    {
-      "name": "kira☆kira",
-      "video_count": 21,
-      "url": "https://ja6play.com/tw/category/manufacturer/kira%E2%98%86kira"
     },
     {
       "name": "NON",
