@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-03-11T00:00:45.211Z",
+  "updated": "2026-03-12T00:00:50.853Z",
   "count": 100,
   "data": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 996,
+      "video_count": 997,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "無資料",
-      "video_count": 512,
+      "video_count": 513,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "ATTACKERS",
-      "video_count": 377,
+      "video_count": 378,
       "url": "https://ja6play.com/tw/category/manufacturer/ATTACKERS"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "name": "Fitch",
-      "video_count": 253,
+      "video_count": 256,
       "url": "https://ja6play.com/tw/category/manufacturer/Fitch"
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "name": "センタービレッジ",
-      "video_count": 224,
+      "video_count": 226,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%E3%83%83%E3%82%B8"
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "name": "WANZ",
-      "video_count": 174,
+      "video_count": 176,
       "url": "https://ja6play.com/tw/category/manufacturer/WANZ"
     },
     {
@@ -115,7 +115,7 @@
     },
     {
       "name": "E-BODY",
-      "video_count": 147,
+      "video_count": 151,
       "url": "https://ja6play.com/tw/category/manufacturer/E-BODY"
     },
     {
@@ -160,7 +160,7 @@
     },
     {
       "name": "オーロラプロジェクト・アネックス",
-      "video_count": 98,
+      "video_count": 99,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
     },
     {
@@ -259,6 +259,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%A1%83%E5%A4%AA%E9%83%8E%E6%98%A0%E5%83%8F%E5%87%BA%E7%89%88"
     },
     {
+      "name": "グローバルメディアアネックス",
+      "video_count": 45,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
+    },
+    {
       "name": "ROOKIE",
       "video_count": 45,
       "url": "https://ja6play.com/tw/category/manufacturer/ROOKIE"
@@ -272,11 +277,6 @@
       "name": "デジタルアーク",
       "video_count": 44,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A2%E3%83%BC%E3%82%AF"
-    },
-    {
-      "name": "グローバルメディアアネックス",
-      "video_count": 44,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
     },
     {
       "name": "marrion",
