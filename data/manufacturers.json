@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-03-17T00:00:49.154Z",
+  "updated": "2026-03-18T00:00:55.885Z",
   "count": 100,
   "data": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1011,
+      "video_count": 1013,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "SOD",
-      "video_count": 416,
+      "video_count": 422,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
@@ -234,6 +234,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AC%E3%82%A2%E3%83%AB%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9"
     },
     {
+      "name": "h.m.p",
+      "video_count": 59,
+      "url": "https://ja6play.com/tw/category/manufacturer/h.m.p"
+    },
+    {
       "name": "WAAP",
       "video_count": 59,
       "url": "https://ja6play.com/tw/category/manufacturer/WAAP"
@@ -242,11 +247,6 @@
       "name": "M&#039;s Video",
       "video_count": 59,
       "url": "https://ja6play.com/tw/category/manufacturer/M%26%23039%3Bs%20Video"
-    },
-    {
-      "name": "h.m.p",
-      "video_count": 57,
-      "url": "https://ja6play.com/tw/category/manufacturer/h.m.p"
     },
     {
       "name": "ksb企画/エマニエル",
