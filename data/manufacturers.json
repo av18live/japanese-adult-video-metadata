@@ -1,26 +1,26 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-03-24T00:00:55.502Z",
+  "updated": "2026-03-25T00:00:26.351Z",
   "count": 100,
   "data": [
     {
       "name": "MOODYZ",
-      "video_count": 1130,
+      "video_count": 1132,
       "url": "https://ja6play.com/tw/category/manufacturer/MOODYZ"
     },
     {
       "name": "瑪丹娜",
-      "video_count": 1034,
+      "video_count": 1036,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%91%AA%E4%B8%B9%E5%A8%9C"
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1025,
+      "video_count": 1026,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
       "name": "S1 Style",
-      "video_count": 673,
+      "video_count": 677,
       "url": "https://ja6play.com/tw/category/manufacturer/S1%20Style"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "SOD",
-      "video_count": 426,
+      "video_count": 434,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
@@ -129,14 +129,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/ABC%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
+      "name": "jet映像",
+      "video_count": 114,
+      "url": "https://ja6play.com/tw/category/manufacturer/jet%E6%98%A0%E5%83%8F"
+    },
+    {
       "name": "ロイヤル",
       "video_count": 113,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB"
-    },
-    {
-      "name": "jet映像",
-      "video_count": 113,
-      "url": "https://ja6play.com/tw/category/manufacturer/jet%E6%98%A0%E5%83%8F"
     },
     {
       "name": "OPPAI",
