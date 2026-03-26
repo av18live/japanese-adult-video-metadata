@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-03-25T00:00:26.351Z",
+  "updated": "2026-03-26T00:01:20.332Z",
   "count": 100,
   "data": [
     {
@@ -10,12 +10,12 @@
     },
     {
       "name": "瑪丹娜",
-      "video_count": 1036,
+      "video_count": 1037,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%91%AA%E4%B8%B9%E5%A8%9C"
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1026,
+      "video_count": 1030,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "無資料",
-      "video_count": 537,
+      "video_count": 538,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -34,14 +34,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
+      "name": "IDEA POCKET",
+      "video_count": 385,
+      "url": "https://ja6play.com/tw/category/manufacturer/IDEA%20POCKET"
+    },
+    {
       "name": "ATTACKERS",
       "video_count": 384,
       "url": "https://ja6play.com/tw/category/manufacturer/ATTACKERS"
-    },
-    {
-      "name": "IDEA POCKET",
-      "video_count": 378,
-      "url": "https://ja6play.com/tw/category/manufacturer/IDEA%20POCKET"
     },
     {
       "name": "ダスッ！",
@@ -100,7 +100,7 @@
     },
     {
       "name": "セレブの友",
-      "video_count": 182,
+      "video_count": 183,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%BB%E3%83%AC%E3%83%96%E3%81%AE%E5%8F%8B"
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "name": "First Star",
-      "video_count": 103,
+      "video_count": 104,
       "url": "https://ja6play.com/tw/category/manufacturer/First%20Star"
     },
     {
@@ -259,6 +259,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%A1%83%E5%A4%AA%E9%83%8E%E6%98%A0%E5%83%8F%E5%87%BA%E7%89%88"
     },
     {
+      "name": "グローバルメディアエンタテインメント",
+      "video_count": 46,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88"
+    },
+    {
       "name": "グローバルメディアアネックス",
       "video_count": 46,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
@@ -279,11 +284,6 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A2%E3%83%BC%E3%82%AF"
     },
     {
-      "name": "グローバルメディアエンタテインメント",
-      "video_count": 45,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88"
-    },
-    {
       "name": "かぐや姫pt/妄想族",
       "video_count": 45,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%81%8B%E3%81%90%E3%82%84%E5%A7%ABpt%2F%E5%A6%84%E6%83%B3%E6%97%8F"
@@ -300,7 +300,7 @@
     },
     {
       "name": "KARMA",
-      "video_count": 43,
+      "video_count": 44,
       "url": "https://ja6play.com/tw/category/manufacturer/KARMA"
     },
     {
@@ -339,14 +339,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/DREAM%20TICKET"
     },
     {
+      "name": "intec inc",
+      "video_count": 39,
+      "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
+    },
+    {
       "name": "milk",
       "video_count": 38,
       "url": "https://ja6play.com/tw/category/manufacturer/milk"
-    },
-    {
-      "name": "intec inc",
-      "video_count": 38,
-      "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
     },
     {
       "name": "K.M.P.",
@@ -399,6 +399,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/megami"
     },
     {
+      "name": "ネクスト",
+      "video_count": 28,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88"
+    },
+    {
       "name": "オルスタックソフト",
       "video_count": 28,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%BD%E3%83%95%E3%83%88"
@@ -407,11 +412,6 @@
       "name": "无资料",
       "video_count": 27,
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%97%A0%E8%B5%84%E6%96%99"
-    },
-    {
-      "name": "ネクスト",
-      "video_count": 27,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88"
     },
     {
       "name": "halentino/妄想族",
