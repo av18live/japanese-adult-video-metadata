@@ -1,11 +1,11 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-04-01T00:00:25.850Z",
+  "updated": "2026-04-02T00:00:23.531Z",
   "count": 100,
   "data": [
     {
       "name": "MOODYZ",
-      "video_count": 1143,
+      "video_count": 1145,
       "url": "https://ja6play.com/tw/category/manufacturer/MOODYZ"
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "S1 Style",
-      "video_count": 685,
+      "video_count": 686,
       "url": "https://ja6play.com/tw/category/manufacturer/S1%20Style"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "SOD",
-      "video_count": 436,
+      "video_count": 437,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "name": "ATTACKERS",
-      "video_count": 387,
+      "video_count": 388,
       "url": "https://ja6play.com/tw/category/manufacturer/ATTACKERS"
     },
     {
@@ -50,12 +50,12 @@
     },
     {
       "name": "VENUS",
-      "video_count": 295,
+      "video_count": 297,
       "url": "https://ja6play.com/tw/category/manufacturer/VENUS"
     },
     {
       "name": "Fitch",
-      "video_count": 266,
+      "video_count": 268,
       "url": "https://ja6play.com/tw/category/manufacturer/Fitch"
     },
     {
@@ -105,12 +105,12 @@
     },
     {
       "name": "WANZ",
-      "video_count": 179,
+      "video_count": 180,
       "url": "https://ja6play.com/tw/category/manufacturer/WANZ"
     },
     {
       "name": "溜池五郎",
-      "video_count": 170,
+      "video_count": 171,
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%BA%9C%E6%B1%A0%E4%BA%94%E9%83%8E"
     },
     {
@@ -190,7 +190,7 @@
     },
     {
       "name": "マザー",
-      "video_count": 83,
+      "video_count": 86,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9E%E3%82%B6%E3%83%BC"
     },
     {
@@ -324,6 +324,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%A0"
     },
     {
+      "name": "intec inc",
+      "video_count": 42,
+      "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
+    },
+    {
       "name": "fs.knightsvisual",
       "video_count": 42,
       "url": "https://ja6play.com/tw/category/manufacturer/fs.knightsvisual"
@@ -332,11 +337,6 @@
       "name": "DREAM TICKET",
       "video_count": 42,
       "url": "https://ja6play.com/tw/category/manufacturer/DREAM%20TICKET"
-    },
-    {
-      "name": "intec inc",
-      "video_count": 41,
-      "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
     },
     {
       "name": "fair＆way",
@@ -370,7 +370,7 @@
     },
     {
       "name": "aircontrol",
-      "video_count": 33,
+      "video_count": 34,
       "url": "https://ja6play.com/tw/category/manufacturer/aircontrol"
     },
     {
@@ -439,6 +439,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
+      "name": "オリンポス",
+      "video_count": 24,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%9D%E3%82%B9"
+    },
+    {
       "name": "mr.michiru",
       "video_count": 24,
       "url": "https://ja6play.com/tw/category/manufacturer/mr.michiru"
@@ -472,11 +477,6 @@
       "name": "三和出版",
       "video_count": 22,
       "url": "https://ja6play.com/tw/category/manufacturer/%E4%B8%89%E5%92%8C%E5%87%BA%E7%89%88"
-    },
-    {
-      "name": "オリンポス",
-      "video_count": 22,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%9D%E3%82%B9"
     },
     {
       "name": "prestige",
