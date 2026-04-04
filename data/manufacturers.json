@@ -1,11 +1,11 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-04-03T00:00:30.916Z",
+  "updated": "2026-04-04T00:00:30.260Z",
   "count": 100,
   "data": [
     {
       "name": "MOODYZ",
-      "video_count": 1145,
+      "video_count": 1148,
       "url": "https://ja6play.com/tw/category/manufacturer/MOODYZ"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "無資料",
-      "video_count": 554,
+      "video_count": 557,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "name": "ATTACKERS",
-      "video_count": 388,
+      "video_count": 389,
       "url": "https://ja6play.com/tw/category/manufacturer/ATTACKERS"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "name": "Fitch",
-      "video_count": 268,
+      "video_count": 270,
       "url": "https://ja6play.com/tw/category/manufacturer/Fitch"
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "name": "PREMIUM",
-      "video_count": 190,
+      "video_count": 191,
       "url": "https://ja6play.com/tw/category/manufacturer/PREMIUM"
     },
     {
@@ -129,6 +129,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/ABC%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
+      "name": "OPPAI",
+      "video_count": 116,
+      "url": "https://ja6play.com/tw/category/manufacturer/OPPAI"
+    },
+    {
       "name": "ロイヤル",
       "video_count": 115,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB"
@@ -139,13 +144,8 @@
       "url": "https://ja6play.com/tw/category/manufacturer/jet%E6%98%A0%E5%83%8F"
     },
     {
-      "name": "OPPAI",
-      "video_count": 115,
-      "url": "https://ja6play.com/tw/category/manufacturer/OPPAI"
-    },
-    {
       "name": "rebecca",
-      "video_count": 108,
+      "video_count": 112,
       "url": "https://ja6play.com/tw/category/manufacturer/rebecca"
     },
     {
