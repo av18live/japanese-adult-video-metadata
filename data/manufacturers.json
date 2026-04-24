@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-04-23T00:00:15.649Z",
+  "updated": "2026-04-24T00:00:55.042Z",
   "count": 100,
   "data": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1093,
+      "video_count": 1098,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "無資料",
-      "video_count": 589,
+      "video_count": 596,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -55,12 +55,12 @@
     },
     {
       "name": "Fitch",
-      "video_count": 281,
+      "video_count": 282,
       "url": "https://ja6play.com/tw/category/manufacturer/Fitch"
     },
     {
       "name": "プラネットプラス",
-      "video_count": 272,
+      "video_count": 273,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "name": "センタービレッジ",
-      "video_count": 244,
+      "video_count": 245,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%E3%83%83%E3%82%B8"
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "name": "First Star",
-      "video_count": 111,
+      "video_count": 112,
       "url": "https://ja6play.com/tw/category/manufacturer/First%20Star"
     },
     {
@@ -180,7 +180,7 @@
     },
     {
       "name": "DEEPS",
-      "video_count": 98,
+      "video_count": 100,
       "url": "https://ja6play.com/tw/category/manufacturer/DEEPS"
     },
     {
@@ -200,7 +200,7 @@
     },
     {
       "name": "スパイスビジュアル",
-      "video_count": 80,
+      "video_count": 85,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB"
     },
     {
@@ -304,6 +304,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A2%E3%83%BC%E3%82%AF"
     },
     {
+      "name": "intec inc",
+      "video_count": 46,
+      "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
+    },
+    {
       "name": "豊彦",
       "video_count": 45,
       "url": "https://ja6play.com/tw/category/manufacturer/%E8%B1%8A%E5%BD%A6"
@@ -312,11 +317,6 @@
       "name": "ミル",
       "video_count": 44,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9F%E3%83%AB"
-    },
-    {
-      "name": "intec inc",
-      "video_count": 44,
-      "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
     },
     {
       "name": "fair＆way",
