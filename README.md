@@ -10,8 +10,8 @@ All data is sourced from [JavPlay.tv](https://ja6play.com) - A free Japanese adu
 
 | File | Description | Records |
 |------|-------------|---------|
-| [videos.json](data/videos.json) | Latest video metadata | 2791 |
-| [actors.json](data/actors.json) | Actor/Actress list | 1873 |
+| [videos.json](data/videos.json) | Latest video metadata | 2807 |
+| [actors.json](data/actors.json) | Actor/Actress list | 1874 |
 | [manufacturers.json](data/manufacturers.json) | Studio/Manufacturer list | 100 |
 | [tags.json](data/tags.json) | Category tags | 392 |
 
@@ -42,6 +42,6 @@ The metadata in this repository is provided under [CC BY 4.0](https://creativeco
 
 ---
 
-**Last Updated:** 2026-04-27T00:00:34.342Z
+**Last Updated:** 2026-04-28T00:00:41.125Z
 
-**Total Records:** 5156
+**Total Records:** 5173
