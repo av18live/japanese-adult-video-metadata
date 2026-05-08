@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-05-07T00:00:44.034Z",
+  "updated": "2026-05-08T00:00:12.556Z",
   "count": 100,
   "data": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1129,
+      "video_count": 1133,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "無資料",
-      "video_count": 608,
+      "video_count": 609,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "name": "センタービレッジ",
-      "video_count": 250,
+      "video_count": 253,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%E3%83%83%E3%82%B8"
     },
     {
@@ -160,7 +160,7 @@
     },
     {
       "name": "オーロラプロジェクト・アネックス",
-      "video_count": 110,
+      "video_count": 112,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
     },
     {
@@ -175,12 +175,12 @@
     },
     {
       "name": "RUBY",
-      "video_count": 105,
+      "video_count": 106,
       "url": "https://ja6play.com/tw/category/manufacturer/RUBY"
     },
     {
       "name": "DEEPS",
-      "video_count": 104,
+      "video_count": 105,
       "url": "https://ja6play.com/tw/category/manufacturer/DEEPS"
     },
     {
@@ -314,6 +314,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
     },
     {
+      "name": "レイディックス",
+      "video_count": 45,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AC%E3%82%A4%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9"
+    },
+    {
       "name": "ミル",
       "video_count": 44,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9F%E3%83%AB"
@@ -332,11 +337,6 @@
       "name": "DREAM TICKET",
       "video_count": 44,
       "url": "https://ja6play.com/tw/category/manufacturer/DREAM%20TICKET"
-    },
-    {
-      "name": "レイディックス",
-      "video_count": 43,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AC%E3%82%A4%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9"
     },
     {
       "name": "milk",
