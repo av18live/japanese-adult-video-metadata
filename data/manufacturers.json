@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-05-09T00:00:15.553Z",
+  "updated": "2026-05-10T00:01:05.578Z",
   "count": 100,
   "data": [
     {
@@ -10,12 +10,12 @@
     },
     {
       "name": "瑪丹娜",
-      "video_count": 1166,
+      "video_count": 1169,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%91%AA%E4%B8%B9%E5%A8%9C"
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1133,
+      "video_count": 1134,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "無資料",
-      "video_count": 614,
+      "video_count": 615,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "IDEA POCKET",
-      "video_count": 438,
+      "video_count": 441,
       "url": "https://ja6play.com/tw/category/manufacturer/IDEA%20POCKET"
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "ダスッ！",
-      "video_count": 420,
+      "video_count": 424,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%80%E3%82%B9%E3%83%83%EF%BC%81"
     },
     {
@@ -124,18 +124,18 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E5%9E%A2"
     },
     {
+      "name": "jet映像",
+      "video_count": 135,
+      "url": "https://ja6play.com/tw/category/manufacturer/jet%E6%98%A0%E5%83%8F"
+    },
+    {
       "name": "OPPAI",
       "video_count": 133,
       "url": "https://ja6play.com/tw/category/manufacturer/OPPAI"
     },
     {
-      "name": "jet映像",
-      "video_count": 132,
-      "url": "https://ja6play.com/tw/category/manufacturer/jet%E6%98%A0%E5%83%8F"
-    },
-    {
       "name": "ロイヤル",
-      "video_count": 125,
+      "video_count": 128,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB"
     },
     {
@@ -145,7 +145,7 @@
     },
     {
       "name": "rebecca",
-      "video_count": 116,
+      "video_count": 119,
       "url": "https://ja6play.com/tw/category/manufacturer/rebecca"
     },
     {
@@ -164,14 +164,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
     },
     {
+      "name": "S-Cute",
+      "video_count": 110,
+      "url": "https://ja6play.com/tw/category/manufacturer/S-Cute"
+    },
+    {
       "name": "funcity/妄想族",
       "video_count": 109,
       "url": "https://ja6play.com/tw/category/manufacturer/funcity%2F%E5%A6%84%E6%83%B3%E6%97%8F"
-    },
-    {
-      "name": "S-Cute",
-      "video_count": 109,
-      "url": "https://ja6play.com/tw/category/manufacturer/S-Cute"
     },
     {
       "name": "RUBY",
@@ -260,7 +260,7 @@
     },
     {
       "name": "ROOKIE",
-      "video_count": 56,
+      "video_count": 57,
       "url": "https://ja6play.com/tw/category/manufacturer/ROOKIE"
     },
     {
@@ -314,6 +314,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
     },
     {
+      "name": "fair＆way",
+      "video_count": 46,
+      "url": "https://ja6play.com/tw/category/manufacturer/fair%EF%BC%86way"
+    },
+    {
       "name": "レイディックス",
       "video_count": 45,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AC%E3%82%A4%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9"
@@ -322,11 +327,6 @@
       "name": "ミル",
       "video_count": 44,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9F%E3%83%AB"
-    },
-    {
-      "name": "fair＆way",
-      "video_count": 44,
-      "url": "https://ja6play.com/tw/category/manufacturer/fair%EF%BC%86way"
     },
     {
       "name": "KARMA",
@@ -374,14 +374,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9F%E3%82%BB%E3%82%B9%E3%81%AE%E7%B4%A0%E9%A1%94%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
+      "name": "hsoda",
+      "video_count": 36,
+      "url": "https://ja6play.com/tw/category/manufacturer/hsoda"
+    },
+    {
       "name": "aircontrol",
       "video_count": 36,
       "url": "https://ja6play.com/tw/category/manufacturer/aircontrol"
-    },
-    {
-      "name": "hsoda",
-      "video_count": 35,
-      "url": "https://ja6play.com/tw/category/manufacturer/hsoda"
     },
     {
       "name": "GIGA",
