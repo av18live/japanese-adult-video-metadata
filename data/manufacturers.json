@@ -1,11 +1,11 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-05-16T00:00:57.590Z",
+  "updated": "2026-05-17T00:01:26.233Z",
   "count": 100,
   "data": [
     {
       "name": "MOODYZ",
-      "video_count": 1242,
+      "video_count": 1264,
       "url": "https://ja6play.com/tw/category/manufacturer/MOODYZ"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "SOD",
-      "video_count": 497,
+      "video_count": 498,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
@@ -45,17 +45,17 @@
     },
     {
       "name": "ダスッ！",
-      "video_count": 427,
+      "video_count": 428,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%80%E3%82%B9%E3%83%83%EF%BC%81"
     },
     {
       "name": "VENUS",
-      "video_count": 321,
+      "video_count": 323,
       "url": "https://ja6play.com/tw/category/manufacturer/VENUS"
     },
     {
       "name": "Fitch",
-      "video_count": 289,
+      "video_count": 295,
       "url": "https://ja6play.com/tw/category/manufacturer/Fitch"
     },
     {
@@ -79,14 +79,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/TAKARA"
     },
     {
+      "name": "本中",
+      "video_count": 240,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E6%9C%AC%E4%B8%AD"
+    },
+    {
       "name": "水晶映像",
       "video_count": 237,
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%B0%B4%E6%99%B6%E6%98%A0%E5%83%8F"
-    },
-    {
-      "name": "本中",
-      "video_count": 234,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E6%9C%AC%E4%B8%AD"
     },
     {
       "name": "kawaii",
@@ -95,7 +95,7 @@
     },
     {
       "name": "PREMIUM",
-      "video_count": 212,
+      "video_count": 221,
       "url": "https://ja6play.com/tw/category/manufacturer/PREMIUM"
     },
     {
@@ -110,28 +110,28 @@
     },
     {
       "name": "溜池五郎",
-      "video_count": 186,
+      "video_count": 198,
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%BA%9C%E6%B1%A0%E4%BA%94%E9%83%8E"
     },
     {
       "name": "E-BODY",
-      "video_count": 172,
+      "video_count": 177,
       "url": "https://ja6play.com/tw/category/manufacturer/E-BODY"
     },
     {
       "name": "無垢",
-      "video_count": 150,
+      "video_count": 156,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E5%9E%A2"
+    },
+    {
+      "name": "OPPAI",
+      "video_count": 139,
+      "url": "https://ja6play.com/tw/category/manufacturer/OPPAI"
     },
     {
       "name": "jet映像",
       "video_count": 135,
       "url": "https://ja6play.com/tw/category/manufacturer/jet%E6%98%A0%E5%83%8F"
-    },
-    {
-      "name": "OPPAI",
-      "video_count": 133,
-      "url": "https://ja6play.com/tw/category/manufacturer/OPPAI"
     },
     {
       "name": "ロイヤル",
@@ -180,7 +180,7 @@
     },
     {
       "name": "DEEPS",
-      "video_count": 105,
+      "video_count": 106,
       "url": "https://ja6play.com/tw/category/manufacturer/DEEPS"
     },
     {
@@ -410,7 +410,7 @@
     },
     {
       "name": "kira☆kira",
-      "video_count": 29,
+      "video_count": 31,
       "url": "https://ja6play.com/tw/category/manufacturer/kira%E2%98%86kira"
     },
     {
