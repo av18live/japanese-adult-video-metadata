@@ -1,11 +1,11 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-06-02T00:00:49.767Z",
+  "updated": "2026-06-03T00:00:48.820Z",
   "count": 100,
   "data": [
     {
       "name": "MOODYZ",
-      "video_count": 1323,
+      "video_count": 1324,
       "url": "https://ja6play.com/tw/category/manufacturer/MOODYZ"
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1190,
+      "video_count": 1194,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -25,27 +25,27 @@
     },
     {
       "name": "無資料",
-      "video_count": 644,
+      "video_count": 646,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
       "name": "SOD",
-      "video_count": 511,
+      "video_count": 516,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
       "name": "IDEA POCKET",
-      "video_count": 462,
+      "video_count": 463,
       "url": "https://ja6play.com/tw/category/manufacturer/IDEA%20POCKET"
     },
     {
       "name": "ATTACKERS",
-      "video_count": 457,
+      "video_count": 461,
       "url": "https://ja6play.com/tw/category/manufacturer/ATTACKERS"
     },
     {
       "name": "ダスッ！",
-      "video_count": 456,
+      "video_count": 457,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%80%E3%82%B9%E3%83%83%EF%BC%81"
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "name": "本中",
-      "video_count": 256,
+      "video_count": 257,
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%9C%AC%E4%B8%AD"
     },
     {
@@ -245,7 +245,7 @@
     },
     {
       "name": "桃太郎映像出版",
-      "video_count": 63,
+      "video_count": 64,
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%A1%83%E5%A4%AA%E9%83%8E%E6%98%A0%E5%83%8F%E5%87%BA%E7%89%88"
     },
     {
@@ -424,14 +424,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89"
     },
     {
+      "name": "オルスタックソフト",
+      "video_count": 29,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%BD%E3%83%95%E3%83%88"
+    },
+    {
       "name": "Hibino",
       "video_count": 29,
       "url": "https://ja6play.com/tw/category/manufacturer/Hibino"
-    },
-    {
-      "name": "オルスタックソフト",
-      "video_count": 28,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%BD%E3%83%95%E3%83%88"
     },
     {
       "name": "オリンポス",
