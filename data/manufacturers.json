@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-06-16T00:00:55.596Z",
+  "updated": "2026-06-17T00:00:55.686Z",
   "count": 100,
   "data": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1220,
+      "video_count": 1223,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "SOD",
-      "video_count": 527,
+      "video_count": 531,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "プラネットプラス",
-      "video_count": 296,
+      "video_count": 298,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9"
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "name": "ロイヤル",
-      "video_count": 148,
+      "video_count": 149,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB"
     },
     {
@@ -169,14 +169,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/First%20Star"
     },
     {
+      "name": "funcity/妄想族",
+      "video_count": 118,
+      "url": "https://ja6play.com/tw/category/manufacturer/funcity%2F%E5%A6%84%E6%83%B3%E6%97%8F"
+    },
+    {
       "name": "DEEPS",
       "video_count": 118,
       "url": "https://ja6play.com/tw/category/manufacturer/DEEPS"
-    },
-    {
-      "name": "funcity/妄想族",
-      "video_count": 115,
-      "url": "https://ja6play.com/tw/category/manufacturer/funcity%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
       "name": "RUBY",
@@ -209,14 +209,19 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%97%B4%E5%A5%B3%E3%83%98%E3%83%96%E3%83%B3"
     },
     {
+      "name": "えむっ娘ラボ",
+      "video_count": 84,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%81%88%E3%82%80%E3%81%A3%E5%A8%98%E3%83%A9%E3%83%9C"
+    },
+    {
       "name": "ALICE JAPAN",
       "video_count": 84,
       "url": "https://ja6play.com/tw/category/manufacturer/ALICE%20JAPAN"
     },
     {
-      "name": "えむっ娘ラボ",
-      "video_count": 82,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%81%88%E3%82%80%E3%81%A3%E5%A8%98%E3%83%A9%E3%83%9C"
+      "name": "MAXING",
+      "video_count": 79,
+      "url": "https://ja6play.com/tw/category/manufacturer/MAXING"
     },
     {
       "name": "mercury（マーキュリー）",
@@ -224,24 +229,19 @@
       "url": "https://ja6play.com/tw/category/manufacturer/mercury%EF%BC%88%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%BC%EF%BC%89"
     },
     {
-      "name": "MAXING",
-      "video_count": 75,
-      "url": "https://ja6play.com/tw/category/manufacturer/MAXING"
-    },
-    {
       "name": "レアルワークス",
       "video_count": 73,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AC%E3%82%A2%E3%83%AB%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9"
     },
     {
+      "name": "h.m.p",
+      "video_count": 71,
+      "url": "https://ja6play.com/tw/category/manufacturer/h.m.p"
+    },
+    {
       "name": "M&#039;s Video",
       "video_count": 71,
       "url": "https://ja6play.com/tw/category/manufacturer/M%26%23039%3Bs%20Video"
-    },
-    {
-      "name": "h.m.p",
-      "video_count": 69,
-      "url": "https://ja6play.com/tw/category/manufacturer/h.m.p"
     },
     {
       "name": "桃太郎映像出版",
@@ -250,7 +250,7 @@
     },
     {
       "name": "ksb企画/エマニエル",
-      "video_count": 64,
+      "video_count": 65,
       "url": "https://ja6play.com/tw/category/manufacturer/ksb%E4%BC%81%E7%94%BB%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
@@ -404,14 +404,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/megami"
     },
     {
+      "name": "halentino/妄想族",
+      "video_count": 34,
+      "url": "https://ja6play.com/tw/category/manufacturer/halentino%2F%E5%A6%84%E6%83%B3%E6%97%8F"
+    },
+    {
       "name": "kira☆kira",
       "video_count": 33,
       "url": "https://ja6play.com/tw/category/manufacturer/kira%E2%98%86kira"
-    },
-    {
-      "name": "halentino/妄想族",
-      "video_count": 33,
-      "url": "https://ja6play.com/tw/category/manufacturer/halentino%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
       "name": "ネクスト",
