@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-07-10T00:00:47.740Z",
+  "updated": "2026-07-11T00:01:06.615Z",
   "count": 100,
   "data": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "name": "瑪丹娜",
-      "video_count": 1328,
+      "video_count": 1332,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%91%AA%E4%B8%B9%E5%A8%9C"
     },
     {
@@ -20,12 +20,12 @@
     },
     {
       "name": "S1 Style",
-      "video_count": 886,
+      "video_count": 901,
       "url": "https://ja6play.com/tw/category/manufacturer/S1%20Style"
     },
     {
       "name": "無資料",
-      "video_count": 683,
+      "video_count": 685,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -35,12 +35,12 @@
     },
     {
       "name": "ダスッ！",
-      "video_count": 501,
+      "video_count": 505,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%80%E3%82%B9%E3%83%83%EF%BC%81"
     },
     {
       "name": "IDEA POCKET",
-      "video_count": 496,
+      "video_count": 503,
       "url": "https://ja6play.com/tw/category/manufacturer/IDEA%20POCKET"
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "name": "センタービレッジ",
-      "video_count": 296,
+      "video_count": 297,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%E3%83%83%E3%82%B8"
     },
     {
@@ -135,22 +135,22 @@
     },
     {
       "name": "jet映像",
-      "video_count": 143,
+      "video_count": 146,
       "url": "https://ja6play.com/tw/category/manufacturer/jet%E6%98%A0%E5%83%8F"
     },
     {
       "name": "rebecca",
-      "video_count": 133,
+      "video_count": 136,
       "url": "https://ja6play.com/tw/category/manufacturer/rebecca"
     },
     {
       "name": "MAX-A",
-      "video_count": 131,
+      "video_count": 132,
       "url": "https://ja6play.com/tw/category/manufacturer/MAX-A"
     },
     {
       "name": "First Star",
-      "video_count": 130,
+      "video_count": 131,
       "url": "https://ja6play.com/tw/category/manufacturer/First%20Star"
     },
     {
@@ -174,14 +174,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/S-Cute"
     },
     {
+      "name": "DEEPS",
+      "video_count": 124,
+      "url": "https://ja6play.com/tw/category/manufacturer/DEEPS"
+    },
+    {
       "name": "RUBY",
       "video_count": 123,
       "url": "https://ja6play.com/tw/category/manufacturer/RUBY"
-    },
-    {
-      "name": "DEEPS",
-      "video_count": 123,
-      "url": "https://ja6play.com/tw/category/manufacturer/DEEPS"
     },
     {
       "name": "ながえスタイル",
@@ -230,7 +230,7 @@
     },
     {
       "name": "桃太郎映像出版",
-      "video_count": 75,
+      "video_count": 76,
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%A1%83%E5%A4%AA%E9%83%8E%E6%98%A0%E5%83%8F%E5%87%BA%E7%89%88"
     },
     {
@@ -380,7 +380,7 @@
     },
     {
       "name": "hsoda",
-      "video_count": 39,
+      "video_count": 40,
       "url": "https://ja6play.com/tw/category/manufacturer/hsoda"
     },
     {
@@ -424,6 +424,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88"
     },
     {
+      "name": "faプロ",
+      "video_count": 32,
+      "url": "https://ja6play.com/tw/category/manufacturer/fa%E3%83%97%E3%83%AD"
+    },
+    {
       "name": "Hibino",
       "video_count": 32,
       "url": "https://ja6play.com/tw/category/manufacturer/Hibino"
@@ -437,11 +442,6 @@
       "name": "mr.michiru",
       "video_count": 31,
       "url": "https://ja6play.com/tw/category/manufacturer/mr.michiru"
-    },
-    {
-      "name": "faプロ",
-      "video_count": 31,
-      "url": "https://ja6play.com/tw/category/manufacturer/fa%E3%83%97%E3%83%AD"
     },
     {
       "name": "オリンポス",
