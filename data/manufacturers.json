@@ -1,11 +1,11 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-07-14T00:00:56.626Z",
+  "updated": "2026-07-15T00:00:18.899Z",
   "count": 100,
   "data": [
     {
       "name": "MOODYZ",
-      "video_count": 1408,
+      "video_count": 1409,
       "url": "https://ja6play.com/tw/category/manufacturer/MOODYZ"
     },
     {
@@ -15,33 +15,33 @@
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1300,
+      "video_count": 1314,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
       "name": "S1 Style",
-      "video_count": 912,
+      "video_count": 914,
       "url": "https://ja6play.com/tw/category/manufacturer/S1%20Style"
     },
     {
       "name": "無資料",
-      "video_count": 686,
+      "video_count": 687,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
       "name": "SOD",
-      "video_count": 569,
+      "video_count": 571,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
+    },
+    {
+      "name": "ダスッ！",
+      "video_count": 514,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%80%E3%82%B9%E3%83%83%EF%BC%81"
     },
     {
       "name": "IDEA POCKET",
       "video_count": 514,
       "url": "https://ja6play.com/tw/category/manufacturer/IDEA%20POCKET"
-    },
-    {
-      "name": "ダスッ！",
-      "video_count": 513,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%80%E3%82%B9%E3%83%83%EF%BC%81"
     },
     {
       "name": "ATTACKERS",
@@ -55,7 +55,7 @@
     },
     {
       "name": "プラネットプラス",
-      "video_count": 314,
+      "video_count": 316,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9"
     },
     {
@@ -65,7 +65,7 @@
     },
     {
       "name": "センタービレッジ",
-      "video_count": 297,
+      "video_count": 298,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%E3%83%83%E3%82%B8"
     },
     {
@@ -85,12 +85,12 @@
     },
     {
       "name": "水晶映像",
-      "video_count": 259,
+      "video_count": 260,
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%B0%B4%E6%99%B6%E6%98%A0%E5%83%8F"
     },
     {
       "name": "kawaii",
-      "video_count": 252,
+      "video_count": 254,
       "url": "https://ja6play.com/tw/category/manufacturer/kawaii"
     },
     {
@@ -99,19 +99,19 @@
       "url": "https://ja6play.com/tw/category/manufacturer/PREMIUM"
     },
     {
-      "name": "溜池五郎",
-      "video_count": 229,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E6%BA%9C%E6%B1%A0%E4%BA%94%E9%83%8E"
+      "name": "WANZ",
+      "video_count": 233,
+      "url": "https://ja6play.com/tw/category/manufacturer/WANZ"
     },
     {
       "name": "セレブの友",
-      "video_count": 228,
+      "video_count": 230,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%BB%E3%83%AC%E3%83%96%E3%81%AE%E5%8F%8B"
     },
     {
-      "name": "WANZ",
-      "video_count": 227,
-      "url": "https://ja6play.com/tw/category/manufacturer/WANZ"
+      "name": "溜池五郎",
+      "video_count": 229,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E6%BA%9C%E6%B1%A0%E4%BA%94%E9%83%8E"
     },
     {
       "name": "E-BODY",
@@ -129,14 +129,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB"
     },
     {
+      "name": "jet映像",
+      "video_count": 151,
+      "url": "https://ja6play.com/tw/category/manufacturer/jet%E6%98%A0%E5%83%8F"
+    },
+    {
       "name": "OPPAI",
       "video_count": 151,
       "url": "https://ja6play.com/tw/category/manufacturer/OPPAI"
-    },
-    {
-      "name": "jet映像",
-      "video_count": 148,
-      "url": "https://ja6play.com/tw/category/manufacturer/jet%E6%98%A0%E5%83%8F"
     },
     {
       "name": "rebecca",
@@ -144,19 +144,19 @@
       "url": "https://ja6play.com/tw/category/manufacturer/rebecca"
     },
     {
-      "name": "MAX-A",
-      "video_count": 132,
-      "url": "https://ja6play.com/tw/category/manufacturer/MAX-A"
+      "name": "First Star",
+      "video_count": 134,
+      "url": "https://ja6play.com/tw/category/manufacturer/First%20Star"
     },
     {
       "name": "オーロラプロジェクト・アネックス",
-      "video_count": 131,
+      "video_count": 132,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
     },
     {
-      "name": "First Star",
-      "video_count": 131,
-      "url": "https://ja6play.com/tw/category/manufacturer/First%20Star"
+      "name": "MAX-A",
+      "video_count": 132,
+      "url": "https://ja6play.com/tw/category/manufacturer/MAX-A"
     },
     {
       "name": "funcity/妄想族",
@@ -185,12 +185,12 @@
     },
     {
       "name": "ながえスタイル",
-      "video_count": 117,
+      "video_count": 118,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%81%AA%E3%81%8C%E3%81%88%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB"
     },
     {
       "name": "スパイスビジュアル",
-      "video_count": 103,
+      "video_count": 113,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB"
     },
     {
@@ -295,7 +295,7 @@
     },
     {
       "name": "豊彦",
-      "video_count": 53,
+      "video_count": 54,
       "url": "https://ja6play.com/tw/category/manufacturer/%E8%B1%8A%E5%BD%A6"
     },
     {
@@ -339,6 +339,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E8%A6%AA%E7%88%B6%E3%81%AE%E5%80%8B%E6%92%AE"
     },
     {
+      "name": "シネマジック",
+      "video_count": 46,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B7%E3%83%8D%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF"
+    },
+    {
       "name": "fs.knightsvisual",
       "video_count": 46,
       "url": "https://ja6play.com/tw/category/manufacturer/fs.knightsvisual"
@@ -347,11 +352,6 @@
       "name": "DREAM TICKET",
       "video_count": 46,
       "url": "https://ja6play.com/tw/category/manufacturer/DREAM%20TICKET"
-    },
-    {
-      "name": "シネマジック",
-      "video_count": 45,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B7%E3%83%8D%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF"
     },
     {
       "name": "KARMA",
@@ -395,13 +395,18 @@
     },
     {
       "name": "メディアブランド",
-      "video_count": 36,
+      "video_count": 37,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89"
     },
     {
       "name": "バビロン/妄想族",
       "video_count": 36,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%90%E3%83%93%E3%83%AD%E3%83%B3%2F%E5%A6%84%E6%83%B3%E6%97%8F"
+    },
+    {
+      "name": "オルスタックソフト",
+      "video_count": 35,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%BD%E3%83%95%E3%83%88"
     },
     {
       "name": "megami",
@@ -425,7 +430,7 @@
     },
     {
       "name": "faプロ",
-      "video_count": 32,
+      "video_count": 33,
       "url": "https://ja6play.com/tw/category/manufacturer/fa%E3%83%97%E3%83%AD"
     },
     {
@@ -434,9 +439,9 @@
       "url": "https://ja6play.com/tw/category/manufacturer/Hibino"
     },
     {
-      "name": "オルスタックソフト",
+      "name": "prestige",
       "video_count": 31,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%BD%E3%83%95%E3%83%88"
+      "url": "https://ja6play.com/tw/category/manufacturer/prestige"
     },
     {
       "name": "mr.michiru",
@@ -449,13 +454,8 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%9D%E3%82%B9"
     },
     {
-      "name": "prestige",
-      "video_count": 30,
-      "url": "https://ja6play.com/tw/category/manufacturer/prestige"
-    },
-    {
       "name": "熟女塾/エマニエル",
-      "video_count": 28,
+      "video_count": 29,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%86%9F%E5%A5%B3%E5%A1%BE%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
