@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-07-15T00:00:18.899Z",
+  "updated": "2026-07-16T00:00:07.902Z",
   "count": 100,
   "data": [
     {
@@ -10,12 +10,12 @@
     },
     {
       "name": "瑪丹娜",
-      "video_count": 1357,
+      "video_count": 1360,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%91%AA%E4%B8%B9%E5%A8%9C"
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1314,
+      "video_count": 1315,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -25,12 +25,12 @@
     },
     {
       "name": "無資料",
-      "video_count": 687,
+      "video_count": 689,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
       "name": "SOD",
-      "video_count": 571,
+      "video_count": 575,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "name": "ロイヤル",
-      "video_count": 159,
+      "video_count": 164,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB"
     },
     {
@@ -174,14 +174,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/S-Cute"
     },
     {
+      "name": "RUBY",
+      "video_count": 124,
+      "url": "https://ja6play.com/tw/category/manufacturer/RUBY"
+    },
+    {
       "name": "DEEPS",
       "video_count": 124,
       "url": "https://ja6play.com/tw/category/manufacturer/DEEPS"
-    },
-    {
-      "name": "RUBY",
-      "video_count": 123,
-      "url": "https://ja6play.com/tw/category/manufacturer/RUBY"
     },
     {
       "name": "ながえスタイル",
@@ -374,6 +374,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9F%E3%82%BB%E3%82%B9%E3%81%AE%E7%B4%A0%E9%A1%94%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
+      "name": "オルスタックソフト",
+      "video_count": 42,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%BD%E3%83%95%E3%83%88"
+    },
+    {
       "name": "aircontrol",
       "video_count": 42,
       "url": "https://ja6play.com/tw/category/manufacturer/aircontrol"
@@ -402,11 +407,6 @@
       "name": "バビロン/妄想族",
       "video_count": 36,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%90%E3%83%93%E3%83%AD%E3%83%B3%2F%E5%A6%84%E6%83%B3%E6%97%8F"
-    },
-    {
-      "name": "オルスタックソフト",
-      "video_count": 35,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%BD%E3%83%95%E3%83%88"
     },
     {
       "name": "megami",
