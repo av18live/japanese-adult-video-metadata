@@ -1,11 +1,11 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-07-20T00:01:04.497Z",
+  "updated": "2026-07-21T00:00:10.694Z",
   "count": 100,
   "data": [
     {
       "name": "MOODYZ",
-      "video_count": 1434,
+      "video_count": 1435,
       "url": "https://ja6play.com/tw/category/manufacturer/MOODYZ"
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1319,
+      "video_count": 1322,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "無資料",
-      "video_count": 691,
+      "video_count": 695,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "ATTACKERS",
-      "video_count": 490,
+      "video_count": 491,
       "url": "https://ja6play.com/tw/category/manufacturer/ATTACKERS"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "name": "プラネットプラス",
-      "video_count": 320,
+      "video_count": 327,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "name": "水晶映像",
-      "video_count": 260,
+      "video_count": 261,
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%B0%B4%E6%99%B6%E6%98%A0%E5%83%8F"
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "name": "jet映像",
-      "video_count": 151,
+      "video_count": 153,
       "url": "https://ja6play.com/tw/category/manufacturer/jet%E6%98%A0%E5%83%8F"
     },
     {
@@ -240,12 +240,12 @@
     },
     {
       "name": "M&#039;s Video",
-      "video_count": 75,
+      "video_count": 76,
       "url": "https://ja6play.com/tw/category/manufacturer/M%26%23039%3Bs%20Video"
     },
     {
       "name": "GIGA",
-      "video_count": 75,
+      "video_count": 76,
       "url": "https://ja6play.com/tw/category/manufacturer/GIGA"
     },
     {
@@ -339,14 +339,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E8%A6%AA%E7%88%B6%E3%81%AE%E5%80%8B%E6%92%AE"
     },
     {
+      "name": "fs.knightsvisual",
+      "video_count": 47,
+      "url": "https://ja6play.com/tw/category/manufacturer/fs.knightsvisual"
+    },
+    {
       "name": "シネマジック",
       "video_count": 46,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B7%E3%83%8D%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF"
-    },
-    {
-      "name": "fs.knightsvisual",
-      "video_count": 46,
-      "url": "https://ja6play.com/tw/category/manufacturer/fs.knightsvisual"
     },
     {
       "name": "KARMA",
@@ -409,6 +409,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%90%E3%83%93%E3%83%AD%E3%83%B3%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
+      "name": "ネクスト",
+      "video_count": 35,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88"
+    },
+    {
       "name": "megami",
       "video_count": 35,
       "url": "https://ja6play.com/tw/category/manufacturer/megami"
@@ -422,11 +427,6 @@
       "name": "kira☆kira",
       "video_count": 34,
       "url": "https://ja6play.com/tw/category/manufacturer/kira%E2%98%86kira"
-    },
-    {
-      "name": "ネクスト",
-      "video_count": 33,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88"
     },
     {
       "name": "faプロ",
@@ -479,14 +479,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
+      "name": "あたご屋/エマニエル",
+      "video_count": 26,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%81%82%E3%81%9F%E3%81%94%E5%B1%8B%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
+    },
+    {
       "name": "NON",
       "video_count": 26,
       "url": "https://ja6play.com/tw/category/manufacturer/NON"
-    },
-    {
-      "name": "あたご屋/エマニエル",
-      "video_count": 25,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%81%82%E3%81%9F%E3%81%94%E5%B1%8B%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
       "name": "熟女大学/熟女卍",
