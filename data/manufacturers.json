@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-07-21T00:00:10.694Z",
+  "updated": "2026-07-22T00:01:01.890Z",
   "count": 100,
   "data": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "name": "瑪丹娜",
-      "video_count": 1362,
+      "video_count": 1363,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%91%AA%E4%B8%B9%E5%A8%9C"
     },
     {
@@ -25,23 +25,23 @@
     },
     {
       "name": "無資料",
-      "video_count": 695,
+      "video_count": 696,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
       "name": "SOD",
-      "video_count": 578,
+      "video_count": 580,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
+    },
+    {
+      "name": "ダスッ！",
+      "video_count": 520,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%80%E3%82%B9%E3%83%83%EF%BC%81"
     },
     {
       "name": "IDEA POCKET",
       "video_count": 516,
       "url": "https://ja6play.com/tw/category/manufacturer/IDEA%20POCKET"
-    },
-    {
-      "name": "ダスッ！",
-      "video_count": 515,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%80%E3%82%B9%E3%83%83%EF%BC%81"
     },
     {
       "name": "ATTACKERS",
@@ -55,7 +55,7 @@
     },
     {
       "name": "プラネットプラス",
-      "video_count": 327,
+      "video_count": 328,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9"
     },
     {
@@ -94,14 +94,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/kawaii"
     },
     {
+      "name": "PREMIUM",
+      "video_count": 241,
+      "url": "https://ja6play.com/tw/category/manufacturer/PREMIUM"
+    },
+    {
       "name": "溜池五郎",
       "video_count": 240,
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%BA%9C%E6%B1%A0%E4%BA%94%E9%83%8E"
-    },
-    {
-      "name": "PREMIUM",
-      "video_count": 240,
-      "url": "https://ja6play.com/tw/category/manufacturer/PREMIUM"
     },
     {
       "name": "WANZ",
@@ -195,7 +195,7 @@
     },
     {
       "name": "ドグマ",
-      "video_count": 103,
+      "video_count": 104,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%89%E3%82%B0%E3%83%9E"
     },
     {
@@ -224,6 +224,16 @@
       "url": "https://ja6play.com/tw/category/manufacturer/MAXING"
     },
     {
+      "name": "GIGA",
+      "video_count": 81,
+      "url": "https://ja6play.com/tw/category/manufacturer/GIGA"
+    },
+    {
+      "name": "M&#039;s Video",
+      "video_count": 78,
+      "url": "https://ja6play.com/tw/category/manufacturer/M%26%23039%3Bs%20Video"
+    },
+    {
       "name": "mercury（マーキュリー）",
       "video_count": 77,
       "url": "https://ja6play.com/tw/category/manufacturer/mercury%EF%BC%88%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%BC%EF%BC%89"
@@ -239,23 +249,13 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AC%E3%82%A2%E3%83%AB%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9"
     },
     {
-      "name": "M&#039;s Video",
-      "video_count": 76,
-      "url": "https://ja6play.com/tw/category/manufacturer/M%26%23039%3Bs%20Video"
-    },
-    {
-      "name": "GIGA",
-      "video_count": 76,
-      "url": "https://ja6play.com/tw/category/manufacturer/GIGA"
-    },
-    {
       "name": "h.m.p",
       "video_count": 74,
       "url": "https://ja6play.com/tw/category/manufacturer/h.m.p"
     },
     {
       "name": "ksb企画/エマニエル",
-      "video_count": 67,
+      "video_count": 68,
       "url": "https://ja6play.com/tw/category/manufacturer/ksb%E4%BC%81%E7%94%BB%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
@@ -409,14 +409,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%90%E3%83%93%E3%83%AD%E3%83%B3%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
+      "name": "megami",
+      "video_count": 36,
+      "url": "https://ja6play.com/tw/category/manufacturer/megami"
+    },
+    {
       "name": "ネクスト",
       "video_count": 35,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88"
-    },
-    {
-      "name": "megami",
-      "video_count": 35,
-      "url": "https://ja6play.com/tw/category/manufacturer/megami"
     },
     {
       "name": "halentino/妄想族",
