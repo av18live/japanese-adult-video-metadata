@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-08-12T00:00:26.995Z",
+  "updated": "2026-08-13T00:00:08.116Z",
   "count": 100,
   "data": [
     {
@@ -414,6 +414,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/fa%E3%83%97%E3%83%AD"
     },
     {
+      "name": "halentino/妄想族",
+      "video_count": 32,
+      "url": "https://ja6play.com/tw/category/manufacturer/halentino%2F%E5%A6%84%E6%83%B3%E6%97%8F"
+    },
+    {
       "name": "hsoda",
       "video_count": 32,
       "url": "https://ja6play.com/tw/category/manufacturer/hsoda"
@@ -432,11 +437,6 @@
       "name": "オリンポス",
       "video_count": 32,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%9D%E3%82%B9"
-    },
-    {
-      "name": "halentino/妄想族",
-      "video_count": 31,
-      "url": "https://ja6play.com/tw/category/manufacturer/halentino%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
       "name": "K.M.P.",
