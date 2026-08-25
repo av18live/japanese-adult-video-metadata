@@ -1,11 +1,11 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-08-24T00:00:46.103Z",
+  "updated": "2026-08-25T00:00:49.362Z",
   "count": 100,
   "data": [
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1213,
+      "video_count": 1221,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "S1 Style",
-      "video_count": 617,
+      "video_count": 618,
       "url": "https://ja6play.com/tw/category/manufacturer/S1%20Style"
     },
     {
@@ -34,14 +34,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
+      "name": "ダスッ！",
+      "video_count": 356,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%80%E3%82%B9%E3%83%83%EF%BC%81"
+    },
+    {
       "name": "IDEA POCKET",
       "video_count": 355,
       "url": "https://ja6play.com/tw/category/manufacturer/IDEA%20POCKET"
-    },
-    {
-      "name": "ダスッ！",
-      "video_count": 355,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%80%E3%82%B9%E3%83%83%EF%BC%81"
     },
     {
       "name": "ATTACKERS",
@@ -70,17 +70,17 @@
     },
     {
       "name": "gloryquest",
-      "video_count": 223,
+      "video_count": 224,
       "url": "https://ja6play.com/tw/category/manufacturer/gloryquest"
     },
     {
       "name": "TAKARA",
-      "video_count": 219,
+      "video_count": 221,
       "url": "https://ja6play.com/tw/category/manufacturer/TAKARA"
     },
     {
       "name": "セレブの友",
-      "video_count": 209,
+      "video_count": 210,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%BB%E3%83%AC%E3%83%96%E3%81%AE%E5%8F%8B"
     },
     {
@@ -140,12 +140,12 @@
     },
     {
       "name": "オーロラプロジェクト・アネックス",
-      "video_count": 126,
+      "video_count": 127,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
     },
     {
       "name": "RUBY",
-      "video_count": 124,
+      "video_count": 125,
       "url": "https://ja6play.com/tw/category/manufacturer/RUBY"
     },
     {
@@ -204,14 +204,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%89%E3%82%B0%E3%83%9E"
     },
     {
+      "name": "ながえスタイル",
+      "video_count": 85,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%81%AA%E3%81%8C%E3%81%88%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB"
+    },
+    {
       "name": "MAXING",
       "video_count": 84,
       "url": "https://ja6play.com/tw/category/manufacturer/MAXING"
-    },
-    {
-      "name": "ながえスタイル",
-      "video_count": 82,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%81%AA%E3%81%8C%E3%81%88%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB"
     },
     {
       "name": "mercury（マーキュリー）",
@@ -239,6 +239,16 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%81%88%E3%82%80%E3%81%A3%E5%A8%98%E3%83%A9%E3%83%9C"
     },
     {
+      "name": "intec inc",
+      "video_count": 59,
+      "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
+    },
+    {
+      "name": "グローバルメディアエンタテインメント",
+      "video_count": 59,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88"
+    },
+    {
       "name": "プラム",
       "video_count": 59,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%A0"
@@ -249,19 +259,9 @@
       "url": "https://ja6play.com/tw/category/manufacturer/WAAP"
     },
     {
-      "name": "intec inc",
-      "video_count": 58,
-      "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
-    },
-    {
       "name": "ksb企画/エマニエル",
       "video_count": 58,
       "url": "https://ja6play.com/tw/category/manufacturer/ksb%E4%BC%81%E7%94%BB%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
-    },
-    {
-      "name": "グローバルメディアエンタテインメント",
-      "video_count": 58,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88"
     },
     {
       "name": "M&#039;s Video",
@@ -285,7 +285,7 @@
     },
     {
       "name": "レアルワークス",
-      "video_count": 54,
+      "video_count": 55,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AC%E3%82%A2%E3%83%AB%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9"
     },
     {
@@ -354,6 +354,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89"
     },
     {
+      "name": "デジタルアーク",
+      "video_count": 41,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A2%E3%83%BC%E3%82%AF"
+    },
+    {
       "name": "DREAM TICKET",
       "video_count": 40,
       "url": "https://ja6play.com/tw/category/manufacturer/DREAM%20TICKET"
@@ -362,11 +367,6 @@
       "name": "KARMA",
       "video_count": 40,
       "url": "https://ja6play.com/tw/category/manufacturer/KARMA"
-    },
-    {
-      "name": "デジタルアーク",
-      "video_count": 40,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A2%E3%83%BC%E3%82%AF"
     },
     {
       "name": "人妻花園劇場",
@@ -414,14 +414,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%86%9F%E5%A5%B3japan"
     },
     {
+      "name": "halentino/妄想族",
+      "video_count": 33,
+      "url": "https://ja6play.com/tw/category/manufacturer/halentino%2F%E5%A6%84%E6%83%B3%E6%97%8F"
+    },
+    {
       "name": "megami",
       "video_count": 33,
       "url": "https://ja6play.com/tw/category/manufacturer/megami"
-    },
-    {
-      "name": "halentino/妄想族",
-      "video_count": 32,
-      "url": "https://ja6play.com/tw/category/manufacturer/halentino%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
       "name": "hsoda",
