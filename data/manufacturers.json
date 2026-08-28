@@ -1,11 +1,11 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-08-27T00:00:22.217Z",
+  "updated": "2026-08-28T00:01:10.070Z",
   "count": 100,
   "data": [
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1230,
+      "video_count": 1236,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -244,14 +244,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88"
     },
     {
+      "name": "intec inc",
+      "video_count": 60,
+      "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
+    },
+    {
       "name": "プラム",
       "video_count": 60,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%A0"
-    },
-    {
-      "name": "intec inc",
-      "video_count": 59,
-      "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
     },
     {
       "name": "WAAP",
