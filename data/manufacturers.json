@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-09-09T00:01:04.802Z",
+  "updated": "2026-09-10T00:00:45.012Z",
   "count": 100,
   "data": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "SOD",
-      "video_count": 521,
+      "video_count": 526,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
@@ -494,14 +494,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/Gasu"
     },
     {
+      "name": "AKNR",
+      "video_count": 22,
+      "url": "https://ja6play.com/tw/category/manufacturer/AKNR"
+    },
+    {
       "name": "kira☆kira",
       "video_count": 22,
       "url": "https://ja6play.com/tw/category/manufacturer/kira%E2%98%86kira"
-    },
-    {
-      "name": "熟女大学/熟女卍",
-      "video_count": 22,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E7%86%9F%E5%A5%B3%E5%A4%A7%E5%AD%A6%2F%E7%86%9F%E5%A5%B3%E5%8D%8D"
     }
   ]
 }
