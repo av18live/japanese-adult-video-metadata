@@ -1,11 +1,11 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-09-17T00:01:02.591Z",
+  "updated": "2026-09-18T00:00:44.157Z",
   "count": 100,
   "data": [
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1279,
+      "video_count": 1280,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -130,7 +130,7 @@
     },
     {
       "name": "First Star",
-      "video_count": 142,
+      "video_count": 143,
       "url": "https://ja6play.com/tw/category/manufacturer/First%20Star"
     },
     {
@@ -149,6 +149,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/RUBY"
     },
     {
+      "name": "スパイスビジュアル",
+      "video_count": 127,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB"
+    },
+    {
       "name": "ロイヤル",
       "video_count": 126,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB"
@@ -157,11 +162,6 @@
       "name": "jet映像",
       "video_count": 124,
       "url": "https://ja6play.com/tw/category/manufacturer/jet%E6%98%A0%E5%83%8F"
-    },
-    {
-      "name": "スパイスビジュアル",
-      "video_count": 124,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB"
     },
     {
       "name": "OPPAI",
@@ -245,7 +245,7 @@
     },
     {
       "name": "intec inc",
-      "video_count": 63,
+      "video_count": 64,
       "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
     },
     {
