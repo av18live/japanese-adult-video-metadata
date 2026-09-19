@@ -1,11 +1,11 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-09-18T00:00:44.157Z",
+  "updated": "2026-09-19T00:00:15.092Z",
   "count": 100,
   "data": [
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1280,
+      "video_count": 1282,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "センタービレッジ",
-      "video_count": 319,
+      "video_count": 323,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%E3%83%83%E3%82%B8"
     },
     {
@@ -275,7 +275,7 @@
     },
     {
       "name": "M&#039;s Video",
-      "video_count": 57,
+      "video_count": 59,
       "url": "https://ja6play.com/tw/category/manufacturer/M%26%23039%3Bs%20Video"
     },
     {
@@ -489,6 +489,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%9C%89%E9%96%91%E3%83%9F%E3%82%BB%E3%82%B9%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
+      "name": "AKNR",
+      "video_count": 23,
+      "url": "https://ja6play.com/tw/category/manufacturer/AKNR"
+    },
+    {
       "name": "Gasu",
       "video_count": 23,
       "url": "https://ja6play.com/tw/category/manufacturer/Gasu"
@@ -497,11 +502,6 @@
       "name": "kira☆kira",
       "video_count": 23,
       "url": "https://ja6play.com/tw/category/manufacturer/kira%E2%98%86kira"
-    },
-    {
-      "name": "熟女大学/熟女卍",
-      "video_count": 23,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E7%86%9F%E5%A5%B3%E5%A4%A7%E5%AD%A6%2F%E7%86%9F%E5%A5%B3%E5%8D%8D"
     }
   ]
 }
