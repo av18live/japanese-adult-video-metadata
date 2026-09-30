@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-09-29T00:00:26.285Z",
+  "updated": "2026-09-30T00:00:26.791Z",
   "count": 100,
   "data": [
     {
@@ -124,14 +124,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E5%9E%A2"
     },
     {
+      "name": "First Star",
+      "video_count": 148,
+      "url": "https://ja6play.com/tw/category/manufacturer/First%20Star"
+    },
+    {
       "name": "E-BODY",
       "video_count": 145,
       "url": "https://ja6play.com/tw/category/manufacturer/E-BODY"
-    },
-    {
-      "name": "First Star",
-      "video_count": 143,
-      "url": "https://ja6play.com/tw/category/manufacturer/First%20Star"
     },
     {
       "name": "オーロラプロジェクト・アネックス",
@@ -220,7 +220,7 @@
     },
     {
       "name": "mercury（マーキュリー）",
-      "video_count": 76,
+      "video_count": 77,
       "url": "https://ja6play.com/tw/category/manufacturer/mercury%EF%BC%88%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%BC%EF%BC%89"
     },
     {
@@ -259,6 +259,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
     },
     {
+      "name": "WAAP",
+      "video_count": 63,
+      "url": "https://ja6play.com/tw/category/manufacturer/WAAP"
+    },
+    {
       "name": "ksb企画/エマニエル",
       "video_count": 61,
       "url": "https://ja6play.com/tw/category/manufacturer/ksb%E4%BC%81%E7%94%BB%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
@@ -267,11 +272,6 @@
       "name": "グローバルメディアアネックス",
       "video_count": 61,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
-    },
-    {
-      "name": "WAAP",
-      "video_count": 60,
-      "url": "https://ja6play.com/tw/category/manufacturer/WAAP"
     },
     {
       "name": "M&#039;s Video",
@@ -315,7 +315,7 @@
     },
     {
       "name": "fs.knightsvisual",
-      "video_count": 50,
+      "video_count": 51,
       "url": "https://ja6play.com/tw/category/manufacturer/fs.knightsvisual"
     },
     {
@@ -344,6 +344,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B7%E3%83%8D%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF"
     },
     {
+      "name": "DREAM TICKET",
+      "video_count": 43,
+      "url": "https://ja6play.com/tw/category/manufacturer/DREAM%20TICKET"
+    },
+    {
       "name": "オルスタックソフト",
       "video_count": 43,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%BD%E3%83%95%E3%83%88"
@@ -362,11 +367,6 @@
       "name": "メディアブランド",
       "video_count": 42,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89"
-    },
-    {
-      "name": "DREAM TICKET",
-      "video_count": 41,
-      "url": "https://ja6play.com/tw/category/manufacturer/DREAM%20TICKET"
     },
     {
       "name": "aircontrol",
@@ -444,19 +444,19 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%86%9F%E5%A5%B3%E5%A1%BE%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
-      "name": "K.M.P.",
-      "video_count": 30,
-      "url": "https://ja6play.com/tw/category/manufacturer/K.M.P."
+      "name": "NON",
+      "video_count": 31,
+      "url": "https://ja6play.com/tw/category/manufacturer/NON"
     },
     {
       "name": "光夜蝶",
-      "video_count": 30,
+      "video_count": 31,
       "url": "https://ja6play.com/tw/category/manufacturer/%E5%85%89%E5%A4%9C%E8%9D%B6"
     },
     {
-      "name": "NON",
-      "video_count": 29,
-      "url": "https://ja6play.com/tw/category/manufacturer/NON"
+      "name": "K.M.P.",
+      "video_count": 30,
+      "url": "https://ja6play.com/tw/category/manufacturer/K.M.P."
     },
     {
       "name": "prestige",
