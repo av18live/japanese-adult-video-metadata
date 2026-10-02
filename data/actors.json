@@ -1,7 +1,7 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-10-01T00:00:26.184Z",
-  "count": 2182,
+  "updated": "2026-10-02T00:00:30.073Z",
+  "count": 2183,
   "data": [
     {
       "name": "波多野結衣",
@@ -45,7 +45,7 @@
     },
     {
       "name": "森澤佳奈(飯岡加奈子)",
-      "video_count": 75,
+      "video_count": 76,
       "url": "https://ja6play.com/tw/category/actor/%E6%A3%AE%E6%BE%A4%E4%BD%B3%E5%A5%88(%E9%A3%AF%E5%B2%A1%E5%8A%A0%E5%A5%88%E5%AD%90)"
     },
     {
@@ -4214,6 +4214,11 @@
       "url": "https://ja6play.com/tw/category/actor/%E6%BE%AA%E5%B7%9D%E6%98%A5%E9%A6%99"
     },
     {
+      "name": "片岡ゆう",
+      "video_count": 4,
+      "url": "https://ja6play.com/tw/category/actor/%E7%89%87%E5%B2%A1%E3%82%86%E3%81%86"
+    },
+    {
       "name": "生田さな",
       "video_count": 4,
       "url": "https://ja6play.com/tw/category/actor/%E7%94%9F%E7%94%B0%E3%81%95%E3%81%AA"
@@ -4917,11 +4922,6 @@
       "name": "瀧結菜",
       "video_count": 3,
       "url": "https://ja6play.com/tw/category/actor/%E7%80%A7%E7%B5%90%E8%8F%9C"
-    },
-    {
-      "name": "片岡ゆう",
-      "video_count": 3,
-      "url": "https://ja6play.com/tw/category/actor/%E7%89%87%E5%B2%A1%E3%82%86%E3%81%86"
     },
     {
       "name": "牧本千幸（つかもと友希）",
@@ -8437,6 +8437,11 @@
       "name": "春咲涼",
       "video_count": 1,
       "url": "https://ja6play.com/tw/category/actor/%E6%98%A5%E5%92%B2%E6%B6%BC"
+    },
+    {
+      "name": "春咲結菜",
+      "video_count": 1,
+      "url": "https://ja6play.com/tw/category/actor/%E6%98%A5%E5%92%B2%E7%B5%90%E8%8F%9C"
     },
     {
       "name": "春川ゆの",
