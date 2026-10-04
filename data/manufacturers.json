@@ -1,12 +1,17 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-10-03T00:00:25.874Z",
+  "updated": "2026-10-04T00:00:27.331Z",
   "count": 100,
   "data": [
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1304,
+      "video_count": 1306,
       "url": "https://ja6play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
+    },
+    {
+      "name": "MOODYZ",
+      "video_count": 1001,
+      "url": "https://ja6play.com/tw/category/manufacturer/MOODYZ"
     },
     {
       "name": "瑪丹娜",
@@ -14,13 +19,8 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%91%AA%E4%B8%B9%E5%A8%9C"
     },
     {
-      "name": "MOODYZ",
-      "video_count": 994,
-      "url": "https://ja6play.com/tw/category/manufacturer/MOODYZ"
-    },
-    {
       "name": "無資料",
-      "video_count": 696,
+      "video_count": 699,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "ATTACKERS",
-      "video_count": 344,
+      "video_count": 347,
       "url": "https://ja6play.com/tw/category/manufacturer/ATTACKERS"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "name": "WANZ",
-      "video_count": 163,
+      "video_count": 166,
       "url": "https://ja6play.com/tw/category/manufacturer/WANZ"
     },
     {
@@ -145,7 +145,7 @@
     },
     {
       "name": "RUBY",
-      "video_count": 133,
+      "video_count": 134,
       "url": "https://ja6play.com/tw/category/manufacturer/RUBY"
     },
     {
@@ -464,6 +464,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/prestige"
     },
     {
+      "name": "TRANS CLUB",
+      "video_count": 28,
+      "url": "https://ja6play.com/tw/category/manufacturer/TRANS%20CLUB"
+    },
+    {
       "name": "无资料",
       "video_count": 27,
       "url": "https://ja6play.com/tw/category/manufacturer/%E6%97%A0%E8%B5%84%E6%96%99"
@@ -477,11 +482,6 @@
       "name": "マッシュルーム/妄想族",
       "video_count": 26,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0%2F%E5%A6%84%E6%83%B3%E6%97%8F"
-    },
-    {
-      "name": "TRANS CLUB",
-      "video_count": 25,
-      "url": "https://ja6play.com/tw/category/manufacturer/TRANS%20CLUB"
     },
     {
       "name": "AKNR",
