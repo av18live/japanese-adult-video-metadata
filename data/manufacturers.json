@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-10-07T00:00:27.441Z",
+  "updated": "2026-10-08T00:00:27.793Z",
   "count": 100,
   "data": [
     {
@@ -179,14 +179,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/DEEPS"
     },
     {
+      "name": "MAX-A",
+      "video_count": 103,
+      "url": "https://ja6play.com/tw/category/manufacturer/MAX-A"
+    },
+    {
       "name": "マザー",
       "video_count": 103,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9E%E3%82%B6%E3%83%BC"
-    },
-    {
-      "name": "MAX-A",
-      "video_count": 102,
-      "url": "https://ja6play.com/tw/category/manufacturer/MAX-A"
     },
     {
       "name": "funcity/妄想族",
