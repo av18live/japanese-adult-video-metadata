@@ -1,6 +1,6 @@
 {
   "source": "https://ja6play.com",
-  "updated": "2026-10-14T00:00:15.780Z",
+  "updated": "2026-10-15T00:00:38.109Z",
   "count": 100,
   "data": [
     {
@@ -15,12 +15,12 @@
     },
     {
       "name": "MOODYZ",
-      "video_count": 1014,
+      "video_count": 1015,
       "url": "https://ja6play.com/tw/category/manufacturer/MOODYZ"
     },
     {
       "name": "無資料",
-      "video_count": 705,
+      "video_count": 709,
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "SOD",
-      "video_count": 545,
+      "video_count": 549,
       "url": "https://ja6play.com/tw/category/manufacturer/SOD"
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "name": "ダスッ！",
-      "video_count": 388,
+      "video_count": 389,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%80%E3%82%B9%E3%83%83%EF%BC%81"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "センタービレッジ",
-      "video_count": 335,
+      "video_count": 336,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%E3%83%83%E3%82%B8"
     },
     {
@@ -80,7 +80,7 @@
     },
     {
       "name": "セレブの友",
-      "video_count": 227,
+      "video_count": 228,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%BB%E3%83%AC%E3%83%96%E3%81%AE%E5%8F%8B"
     },
     {
@@ -140,12 +140,12 @@
     },
     {
       "name": "S-Cute",
-      "video_count": 139,
+      "video_count": 140,
       "url": "https://ja6play.com/tw/category/manufacturer/S-Cute"
     },
     {
       "name": "RUBY",
-      "video_count": 135,
+      "video_count": 137,
       "url": "https://ja6play.com/tw/category/manufacturer/RUBY"
     },
     {
@@ -154,14 +154,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB"
     },
     {
+      "name": "スパイスビジュアル",
+      "video_count": 134,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB"
+    },
+    {
       "name": "jet映像",
       "video_count": 131,
       "url": "https://ja6play.com/tw/category/manufacturer/jet%E6%98%A0%E5%83%8F"
-    },
-    {
-      "name": "スパイスビジュアル",
-      "video_count": 127,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB"
     },
     {
       "name": "GIGA",
@@ -220,7 +220,7 @@
     },
     {
       "name": "mercury（マーキュリー）",
-      "video_count": 77,
+      "video_count": 78,
       "url": "https://ja6play.com/tw/category/manufacturer/mercury%EF%BC%88%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%BC%EF%BC%89"
     },
     {
@@ -234,13 +234,18 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E7%97%B4%E5%A5%B3%E3%83%98%E3%83%96%E3%83%B3"
     },
     {
+      "name": "intec inc",
+      "video_count": 69,
+      "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
+    },
+    {
       "name": "えむっ娘ラボ",
       "video_count": 69,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%81%88%E3%82%80%E3%81%A3%E5%A8%98%E3%83%A9%E3%83%9C"
     },
     {
       "name": "プラム",
-      "video_count": 67,
+      "video_count": 68,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%A0"
     },
     {
@@ -252,11 +257,6 @@
       "name": "h.m.p",
       "video_count": 64,
       "url": "https://ja6play.com/tw/category/manufacturer/h.m.p"
-    },
-    {
-      "name": "intec inc",
-      "video_count": 64,
-      "url": "https://ja6play.com/tw/category/manufacturer/intec%20inc"
     },
     {
       "name": "グローバルメディアアネックス",
@@ -310,7 +310,7 @@
     },
     {
       "name": "豊彦",
-      "video_count": 53,
+      "video_count": 54,
       "url": "https://ja6play.com/tw/category/manufacturer/%E8%B1%8A%E5%BD%A6"
     },
     {
@@ -344,6 +344,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%82%B7%E3%83%8D%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF"
     },
     {
+      "name": "メディアブランド",
+      "video_count": 45,
+      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89"
+    },
+    {
       "name": "DREAM TICKET",
       "video_count": 44,
       "url": "https://ja6play.com/tw/category/manufacturer/DREAM%20TICKET"
@@ -369,11 +374,6 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%9F%E3%82%BB%E3%82%B9%E3%81%AE%E7%B4%A0%E9%A1%94%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
-      "name": "メディアブランド",
-      "video_count": 42,
-      "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89"
-    },
-    {
       "name": "aircontrol",
       "video_count": 41,
       "url": "https://ja6play.com/tw/category/manufacturer/aircontrol"
@@ -389,6 +389,11 @@
       "url": "https://ja6play.com/tw/category/manufacturer/%E4%BA%BA%E5%A6%BB%E8%8A%B1%E5%9C%92%E5%8A%87%E5%A0%B4"
     },
     {
+      "name": "faプロ",
+      "video_count": 39,
+      "url": "https://ja6play.com/tw/category/manufacturer/fa%E3%83%97%E3%83%AD"
+    },
+    {
       "name": "Hibino",
       "video_count": 38,
       "url": "https://ja6play.com/tw/category/manufacturer/Hibino"
@@ -397,11 +402,6 @@
       "name": "ネクスト",
       "video_count": 38,
       "url": "https://ja6play.com/tw/category/manufacturer/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88"
-    },
-    {
-      "name": "faプロ",
-      "video_count": 37,
-      "url": "https://ja6play.com/tw/category/manufacturer/fa%E3%83%97%E3%83%AD"
     },
     {
       "name": "halentino/妄想族",
@@ -459,14 +459,14 @@
       "url": "https://ja6play.com/tw/category/manufacturer/K.M.P."
     },
     {
+      "name": "TRANS CLUB",
+      "video_count": 29,
+      "url": "https://ja6play.com/tw/category/manufacturer/TRANS%20CLUB"
+    },
+    {
       "name": "prestige",
       "video_count": 29,
       "url": "https://ja6play.com/tw/category/manufacturer/prestige"
-    },
-    {
-      "name": "TRANS CLUB",
-      "video_count": 28,
-      "url": "https://ja6play.com/tw/category/manufacturer/TRANS%20CLUB"
     },
     {
       "name": "无资料",
