@@ -4,13 +4,13 @@ This repository contains structured metadata for Japanese adult videos, maintain
 
 ## Data Source
 
-All data is sourced from [JavPlay.tv](https://ja6play.com) - A free Japanese adult video streaming platform.
+All data is sourced from [JavPlay.tv](https://ja7play.com) - A free Japanese adult video streaming platform.
 
 ## Available Data
 
 | File | Description | Records |
 |------|-------------|---------|
-| [videos.json](data/videos.json) | Latest video metadata | 1827 |
+| [videos.json](data/videos.json) | Latest video metadata | 1842 |
 | [actors.json](data/actors.json) | Actor/Actress list | 2217 |
 | [manufacturers.json](data/manufacturers.json) | Studio/Manufacturer list | 100 |
 | [tags.json](data/tags.json) | Category tags | 402 |
@@ -21,7 +21,7 @@ Each JSON file follows this structure:
 
 ```json
 {
-  "source": "https://ja6play.com",
+  "source": "https://ja7play.com",
   "updated": "ISO 8601 timestamp",
   "count": 100,
   "data": [...]
@@ -42,6 +42,6 @@ The metadata in this repository is provided under [CC BY 4.0](https://creativeco
 
 ---
 
-**Last Updated:** 2026-10-21T00:00:19.765Z
+**Last Updated:** 2026-10-22T00:00:20.196Z
 
-**Total Records:** 4546
+**Total Records:** 4561
