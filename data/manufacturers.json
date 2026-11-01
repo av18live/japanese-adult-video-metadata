@@ -1,6 +1,6 @@
 {
   "source": "https://ja7play.com",
-  "updated": "2026-10-31T00:00:21.191Z",
+  "updated": "2026-11-01T00:00:16.901Z",
   "count": 100,
   "data": [
     {
@@ -9,18 +9,18 @@
       "url": "https://ja7play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
+      "name": "MOODYZ",
+      "video_count": 1051,
+      "url": "https://ja7play.com/tw/category/manufacturer/MOODYZ"
+    },
+    {
       "name": "瑪丹娜",
       "video_count": 1044,
       "url": "https://ja7play.com/tw/category/manufacturer/%E7%91%AA%E4%B8%B9%E5%A8%9C"
     },
     {
-      "name": "MOODYZ",
-      "video_count": 1034,
-      "url": "https://ja7play.com/tw/category/manufacturer/MOODYZ"
-    },
-    {
       "name": "無資料",
-      "video_count": 721,
+      "video_count": 722,
       "url": "https://ja7play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "IDEA POCKET",
-      "video_count": 403,
+      "video_count": 405,
       "url": "https://ja7play.com/tw/category/manufacturer/IDEA%20POCKET"
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "ATTACKERS",
-      "video_count": 360,
+      "video_count": 361,
       "url": "https://ja7play.com/tw/category/manufacturer/ATTACKERS"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "VENUS",
-      "video_count": 266,
+      "video_count": 267,
       "url": "https://ja7play.com/tw/category/manufacturer/VENUS"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "name": "WANZ",
-      "video_count": 170,
+      "video_count": 173,
       "url": "https://ja7play.com/tw/category/manufacturer/WANZ"
     },
     {
@@ -489,6 +489,11 @@
       "url": "https://ja7play.com/tw/category/manufacturer/AKNR"
     },
     {
+      "name": "熟女大学/熟女卍",
+      "video_count": 25,
+      "url": "https://ja7play.com/tw/category/manufacturer/%E7%86%9F%E5%A5%B3%E5%A4%A7%E5%AD%A6%2F%E7%86%9F%E5%A5%B3%E5%8D%8D"
+    },
+    {
       "name": "dahlia",
       "video_count": 24,
       "url": "https://ja7play.com/tw/category/manufacturer/dahlia"
@@ -497,11 +502,6 @@
       "name": "ゲインコーポレーション",
       "video_count": 24,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%82%B2%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
-    },
-    {
-      "name": "有閑ミセス/エマニエル",
-      "video_count": 24,
-      "url": "https://ja7play.com/tw/category/manufacturer/%E6%9C%89%E9%96%91%E3%83%9F%E3%82%BB%E3%82%B9%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     }
   ]
 }
