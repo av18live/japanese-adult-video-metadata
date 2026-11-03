@@ -1,11 +1,11 @@
 {
   "source": "https://ja7play.com",
-  "updated": "2026-11-02T00:00:15.973Z",
+  "updated": "2026-11-03T00:00:16.723Z",
   "count": 100,
   "data": [
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1355,
+      "video_count": 1362,
       "url": "https://ja7play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "無資料",
-      "video_count": 722,
+      "video_count": 724,
       "url": "https://ja7play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "name": "S-Cute",
-      "video_count": 144,
+      "video_count": 146,
       "url": "https://ja7play.com/tw/category/manufacturer/S-Cute"
     },
     {
@@ -174,24 +174,24 @@
       "url": "https://ja7play.com/tw/category/manufacturer/OPPAI"
     },
     {
+      "name": "MAX-A",
+      "video_count": 109,
+      "url": "https://ja7play.com/tw/category/manufacturer/MAX-A"
+    },
+    {
+      "name": "マザー",
+      "video_count": 109,
+      "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%9E%E3%82%B6%E3%83%BC"
+    },
+    {
       "name": "DEEPS",
       "video_count": 108,
       "url": "https://ja7play.com/tw/category/manufacturer/DEEPS"
     },
     {
-      "name": "マザー",
-      "video_count": 107,
-      "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%9E%E3%82%B6%E3%83%BC"
-    },
-    {
       "name": "funcity/妄想族",
       "video_count": 105,
       "url": "https://ja7play.com/tw/category/manufacturer/funcity%2F%E5%A6%84%E6%83%B3%E6%97%8F"
-    },
-    {
-      "name": "MAX-A",
-      "video_count": 104,
-      "url": "https://ja7play.com/tw/category/manufacturer/MAX-A"
     },
     {
       "name": "ABC/妄想族",
@@ -210,7 +210,7 @@
     },
     {
       "name": "桃太郎映像出版",
-      "video_count": 93,
+      "video_count": 94,
       "url": "https://ja7play.com/tw/category/manufacturer/%E6%A1%83%E5%A4%AA%E9%83%8E%E6%98%A0%E5%83%8F%E5%87%BA%E7%89%88"
     },
     {
@@ -245,7 +245,7 @@
     },
     {
       "name": "プラム",
-      "video_count": 68,
+      "video_count": 69,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%A0"
     },
     {
@@ -339,14 +339,14 @@
       "url": "https://ja7play.com/tw/category/manufacturer/%E8%A6%AA%E7%88%B6%E3%81%AE%E5%80%8B%E6%92%AE"
     },
     {
+      "name": "DREAM TICKET",
+      "video_count": 47,
+      "url": "https://ja7play.com/tw/category/manufacturer/DREAM%20TICKET"
+    },
+    {
       "name": "シネマジック",
       "video_count": 46,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%82%B7%E3%83%8D%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF"
-    },
-    {
-      "name": "DREAM TICKET",
-      "video_count": 45,
-      "url": "https://ja7play.com/tw/category/manufacturer/DREAM%20TICKET"
     },
     {
       "name": "KARMA",
@@ -374,14 +374,14 @@
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%9F%E3%82%BB%E3%82%B9%E3%81%AE%E7%B4%A0%E9%A1%94%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
+      "name": "m男パラダイス",
+      "video_count": 42,
+      "url": "https://ja7play.com/tw/category/manufacturer/m%E7%94%B7%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9"
+    },
+    {
       "name": "デジタルアーク",
       "video_count": 42,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A2%E3%83%BC%E3%82%AF"
-    },
-    {
-      "name": "m男パラダイス",
-      "video_count": 41,
-      "url": "https://ja7play.com/tw/category/manufacturer/m%E7%94%B7%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9"
     },
     {
       "name": "faプロ",
