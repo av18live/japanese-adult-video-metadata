@@ -1,11 +1,11 @@
 {
   "source": "https://ja7play.com",
-  "updated": "2026-11-03T00:00:16.723Z",
+  "updated": "2026-11-04T00:00:15.789Z",
   "count": 100,
   "data": [
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1362,
+      "video_count": 1364,
       "url": "https://ja7play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "無資料",
-      "video_count": 724,
+      "video_count": 725,
       "url": "https://ja7play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "name": "gloryquest",
-      "video_count": 248,
+      "video_count": 251,
       "url": "https://ja7play.com/tw/category/manufacturer/gloryquest"
     },
     {
@@ -174,14 +174,14 @@
       "url": "https://ja7play.com/tw/category/manufacturer/OPPAI"
     },
     {
+      "name": "マザー",
+      "video_count": 113,
+      "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%9E%E3%82%B6%E3%83%BC"
+    },
+    {
       "name": "MAX-A",
       "video_count": 109,
       "url": "https://ja7play.com/tw/category/manufacturer/MAX-A"
-    },
-    {
-      "name": "マザー",
-      "video_count": 109,
-      "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%9E%E3%82%B6%E3%83%BC"
     },
     {
       "name": "DEEPS",
@@ -190,7 +190,7 @@
     },
     {
       "name": "funcity/妄想族",
-      "video_count": 105,
+      "video_count": 107,
       "url": "https://ja7play.com/tw/category/manufacturer/funcity%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
@@ -210,7 +210,7 @@
     },
     {
       "name": "桃太郎映像出版",
-      "video_count": 94,
+      "video_count": 95,
       "url": "https://ja7play.com/tw/category/manufacturer/%E6%A1%83%E5%A4%AA%E9%83%8E%E6%98%A0%E5%83%8F%E5%87%BA%E7%89%88"
     },
     {
@@ -234,6 +234,11 @@
       "url": "https://ja7play.com/tw/category/manufacturer/ALICE%20JAPAN"
     },
     {
+      "name": "プラム",
+      "video_count": 72,
+      "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%A0"
+    },
+    {
       "name": "えむっ娘ラボ",
       "video_count": 71,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%81%88%E3%82%80%E3%81%A3%E5%A8%98%E3%83%A9%E3%83%9C"
@@ -242,11 +247,6 @@
       "name": "intec inc",
       "video_count": 70,
       "url": "https://ja7play.com/tw/category/manufacturer/intec%20inc"
-    },
-    {
-      "name": "プラム",
-      "video_count": 69,
-      "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%A0"
     },
     {
       "name": "h.m.p",
@@ -264,14 +264,14 @@
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
     },
     {
+      "name": "WAAP",
+      "video_count": 64,
+      "url": "https://ja7play.com/tw/category/manufacturer/WAAP"
+    },
+    {
       "name": "M&#039;s Video",
       "video_count": 63,
       "url": "https://ja7play.com/tw/category/manufacturer/M%26%23039%3Bs%20Video"
-    },
-    {
-      "name": "WAAP",
-      "video_count": 63,
-      "url": "https://ja7play.com/tw/category/manufacturer/WAAP"
     },
     {
       "name": "ksb企画/エマニエル",
@@ -359,6 +359,11 @@
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89"
     },
     {
+      "name": "ミセスの素顔/エマニエル",
+      "video_count": 44,
+      "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%9F%E3%82%BB%E3%82%B9%E3%81%AE%E7%B4%A0%E9%A1%94%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
+    },
+    {
       "name": "aircontrol",
       "video_count": 43,
       "url": "https://ja7play.com/tw/category/manufacturer/aircontrol"
@@ -367,11 +372,6 @@
       "name": "オルスタックソフト",
       "video_count": 43,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%BD%E3%83%95%E3%83%88"
-    },
-    {
-      "name": "ミセスの素顔/エマニエル",
-      "video_count": 43,
-      "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%9F%E3%82%BB%E3%82%B9%E3%81%AE%E7%B4%A0%E9%A1%94%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
       "name": "m男パラダイス",
@@ -409,14 +409,14 @@
       "url": "https://ja7play.com/tw/category/manufacturer/Hibino"
     },
     {
+      "name": "熟女japan",
+      "video_count": 38,
+      "url": "https://ja7play.com/tw/category/manufacturer/%E7%86%9F%E5%A5%B3japan"
+    },
+    {
       "name": "バビロン/妄想族",
       "video_count": 36,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%90%E3%83%93%E3%83%AD%E3%83%B3%2F%E5%A6%84%E6%83%B3%E6%97%8F"
-    },
-    {
-      "name": "熟女japan",
-      "video_count": 36,
-      "url": "https://ja7play.com/tw/category/manufacturer/%E7%86%9F%E5%A5%B3japan"
     },
     {
       "name": "megami",
@@ -425,7 +425,7 @@
     },
     {
       "name": "オリンポス",
-      "video_count": 34,
+      "video_count": 35,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%9D%E3%82%B9"
     },
     {
