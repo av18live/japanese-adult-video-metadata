@@ -1,11 +1,11 @@
 {
   "source": "https://ja7play.com",
-  "updated": "2026-11-04T00:00:15.789Z",
+  "updated": "2026-11-05T00:00:19.648Z",
   "count": 100,
   "data": [
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1364,
+      "video_count": 1367,
       "url": "https://ja7play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "IDEA POCKET",
-      "video_count": 412,
+      "video_count": 413,
       "url": "https://ja7play.com/tw/category/manufacturer/IDEA%20POCKET"
     },
     {
@@ -179,6 +179,11 @@
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%9E%E3%82%B6%E3%83%BC"
     },
     {
+      "name": "funcity/妄想族",
+      "video_count": 110,
+      "url": "https://ja7play.com/tw/category/manufacturer/funcity%2F%E5%A6%84%E6%83%B3%E6%97%8F"
+    },
+    {
       "name": "MAX-A",
       "video_count": 109,
       "url": "https://ja7play.com/tw/category/manufacturer/MAX-A"
@@ -189,14 +194,14 @@
       "url": "https://ja7play.com/tw/category/manufacturer/DEEPS"
     },
     {
-      "name": "funcity/妄想族",
-      "video_count": 107,
-      "url": "https://ja7play.com/tw/category/manufacturer/funcity%2F%E5%A6%84%E6%83%B3%E6%97%8F"
-    },
-    {
       "name": "ABC/妄想族",
       "video_count": 99,
       "url": "https://ja7play.com/tw/category/manufacturer/ABC%2F%E5%A6%84%E6%83%B3%E6%97%8F"
+    },
+    {
+      "name": "桃太郎映像出版",
+      "video_count": 98,
+      "url": "https://ja7play.com/tw/category/manufacturer/%E6%A1%83%E5%A4%AA%E9%83%8E%E6%98%A0%E5%83%8F%E5%87%BA%E7%89%88"
     },
     {
       "name": "ドグマ",
@@ -207,11 +212,6 @@
       "name": "ながえスタイル",
       "video_count": 95,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%81%AA%E3%81%8C%E3%81%88%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB"
-    },
-    {
-      "name": "桃太郎映像出版",
-      "video_count": 95,
-      "url": "https://ja7play.com/tw/category/manufacturer/%E6%A1%83%E5%A4%AA%E9%83%8E%E6%98%A0%E5%83%8F%E5%87%BA%E7%89%88"
     },
     {
       "name": "MAXING",
@@ -249,24 +249,24 @@
       "url": "https://ja7play.com/tw/category/manufacturer/intec%20inc"
     },
     {
+      "name": "グローバルメディアエンタテインメント",
+      "video_count": 68,
+      "url": "https://ja7play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88"
+    },
+    {
       "name": "h.m.p",
       "video_count": 67,
       "url": "https://ja7play.com/tw/category/manufacturer/h.m.p"
     },
     {
-      "name": "グローバルメディアエンタテインメント",
-      "video_count": 67,
-      "url": "https://ja7play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88"
+      "name": "WAAP",
+      "video_count": 66,
+      "url": "https://ja7play.com/tw/category/manufacturer/WAAP"
     },
     {
       "name": "グローバルメディアアネックス",
       "video_count": 65,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
-    },
-    {
-      "name": "WAAP",
-      "video_count": 64,
-      "url": "https://ja7play.com/tw/category/manufacturer/WAAP"
     },
     {
       "name": "M&#039;s Video",
@@ -285,7 +285,7 @@
     },
     {
       "name": "レイディックス",
-      "video_count": 60,
+      "video_count": 61,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%AC%E3%82%A4%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9"
     },
     {
@@ -385,7 +385,7 @@
     },
     {
       "name": "faプロ",
-      "video_count": 40,
+      "video_count": 41,
       "url": "https://ja7play.com/tw/category/manufacturer/fa%E3%83%97%E3%83%AD"
     },
     {
@@ -415,7 +415,7 @@
     },
     {
       "name": "バビロン/妄想族",
-      "video_count": 36,
+      "video_count": 37,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%90%E3%83%93%E3%83%AD%E3%83%B3%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
