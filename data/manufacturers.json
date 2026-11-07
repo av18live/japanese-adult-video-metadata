@@ -1,21 +1,21 @@
 {
   "source": "https://ja7play.com",
-  "updated": "2026-11-06T00:00:18.620Z",
+  "updated": "2026-11-07T00:00:17.100Z",
   "count": 100,
   "data": [
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1367,
+      "video_count": 1371,
       "url": "https://ja7play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
       "name": "MOODYZ",
-      "video_count": 1051,
+      "video_count": 1055,
       "url": "https://ja7play.com/tw/category/manufacturer/MOODYZ"
     },
     {
       "name": "瑪丹娜",
-      "video_count": 1044,
+      "video_count": 1045,
       "url": "https://ja7play.com/tw/category/manufacturer/%E7%91%AA%E4%B8%B9%E5%A8%9C"
     },
     {
@@ -30,12 +30,12 @@
     },
     {
       "name": "SOD",
-      "video_count": 560,
+      "video_count": 565,
       "url": "https://ja7play.com/tw/category/manufacturer/SOD"
     },
     {
       "name": "IDEA POCKET",
-      "video_count": 413,
+      "video_count": 417,
       "url": "https://ja7play.com/tw/category/manufacturer/IDEA%20POCKET"
     },
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "ATTACKERS",
-      "video_count": 372,
+      "video_count": 378,
       "url": "https://ja7play.com/tw/category/manufacturer/ATTACKERS"
     },
     {
@@ -55,12 +55,12 @@
     },
     {
       "name": "プラネットプラス",
-      "video_count": 328,
+      "video_count": 335,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9"
     },
     {
       "name": "VENUS",
-      "video_count": 269,
+      "video_count": 270,
       "url": "https://ja7play.com/tw/category/manufacturer/VENUS"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "name": "Fitch",
-      "video_count": 221,
+      "video_count": 223,
       "url": "https://ja7play.com/tw/category/manufacturer/Fitch"
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "name": "kawaii",
-      "video_count": 193,
+      "video_count": 198,
       "url": "https://ja7play.com/tw/category/manufacturer/kawaii"
     },
     {
@@ -104,18 +104,18 @@
       "url": "https://ja7play.com/tw/category/manufacturer/%E6%BA%9C%E6%B1%A0%E4%BA%94%E9%83%8E"
     },
     {
+      "name": "WANZ",
+      "video_count": 176,
+      "url": "https://ja7play.com/tw/category/manufacturer/WANZ"
+    },
+    {
       "name": "PREMIUM",
       "video_count": 174,
       "url": "https://ja7play.com/tw/category/manufacturer/PREMIUM"
     },
     {
-      "name": "WANZ",
-      "video_count": 174,
-      "url": "https://ja7play.com/tw/category/manufacturer/WANZ"
-    },
-    {
       "name": "rebecca",
-      "video_count": 158,
+      "video_count": 162,
       "url": "https://ja7play.com/tw/category/manufacturer/rebecca"
     },
     {
@@ -179,6 +179,11 @@
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%9E%E3%82%B6%E3%83%BC"
     },
     {
+      "name": "DEEPS",
+      "video_count": 111,
+      "url": "https://ja7play.com/tw/category/manufacturer/DEEPS"
+    },
+    {
       "name": "funcity/妄想族",
       "video_count": 110,
       "url": "https://ja7play.com/tw/category/manufacturer/funcity%2F%E5%A6%84%E6%83%B3%E6%97%8F"
@@ -189,19 +194,14 @@
       "url": "https://ja7play.com/tw/category/manufacturer/MAX-A"
     },
     {
-      "name": "DEEPS",
-      "video_count": 108,
-      "url": "https://ja7play.com/tw/category/manufacturer/DEEPS"
+      "name": "桃太郎映像出版",
+      "video_count": 102,
+      "url": "https://ja7play.com/tw/category/manufacturer/%E6%A1%83%E5%A4%AA%E9%83%8E%E6%98%A0%E5%83%8F%E5%87%BA%E7%89%88"
     },
     {
       "name": "ABC/妄想族",
       "video_count": 99,
       "url": "https://ja7play.com/tw/category/manufacturer/ABC%2F%E5%A6%84%E6%83%B3%E6%97%8F"
-    },
-    {
-      "name": "桃太郎映像出版",
-      "video_count": 98,
-      "url": "https://ja7play.com/tw/category/manufacturer/%E6%A1%83%E5%A4%AA%E9%83%8E%E6%98%A0%E5%83%8F%E5%87%BA%E7%89%88"
     },
     {
       "name": "ドグマ",
@@ -269,14 +269,14 @@
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
     },
     {
+      "name": "ksb企画/エマニエル",
+      "video_count": 64,
+      "url": "https://ja7play.com/tw/category/manufacturer/ksb%E4%BC%81%E7%94%BB%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
+    },
+    {
       "name": "M&#039;s Video",
       "video_count": 63,
       "url": "https://ja7play.com/tw/category/manufacturer/M%26%23039%3Bs%20Video"
-    },
-    {
-      "name": "ksb企画/エマニエル",
-      "video_count": 63,
-      "url": "https://ja7play.com/tw/category/manufacturer/ksb%E4%BC%81%E7%94%BB%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
       "name": "milk",
@@ -474,9 +474,19 @@
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%81%82%E3%81%9F%E3%81%94%E5%B1%8B%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
+      "name": "dahlia",
+      "video_count": 27,
+      "url": "https://ja7play.com/tw/category/manufacturer/dahlia"
+    },
+    {
       "name": "无资料",
       "video_count": 27,
       "url": "https://ja7play.com/tw/category/manufacturer/%E6%97%A0%E8%B5%84%E6%96%99"
+    },
+    {
+      "name": "AKNR",
+      "video_count": 26,
+      "url": "https://ja7play.com/tw/category/manufacturer/AKNR"
     },
     {
       "name": "マッシュルーム/妄想族",
@@ -484,18 +494,8 @@
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0%2F%E5%A6%84%E6%83%B3%E6%97%8F"
     },
     {
-      "name": "AKNR",
-      "video_count": 25,
-      "url": "https://ja7play.com/tw/category/manufacturer/AKNR"
-    },
-    {
-      "name": "dahlia",
-      "video_count": 25,
-      "url": "https://ja7play.com/tw/category/manufacturer/dahlia"
-    },
-    {
       "name": "熟女大学/熟女卍",
-      "video_count": 25,
+      "video_count": 26,
       "url": "https://ja7play.com/tw/category/manufacturer/%E7%86%9F%E5%A5%B3%E5%A4%A7%E5%AD%A6%2F%E7%86%9F%E5%A5%B3%E5%8D%8D"
     },
     {
