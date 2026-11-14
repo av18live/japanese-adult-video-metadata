@@ -1,6 +1,6 @@
 {
   "source": "https://ja7play.com",
-  "updated": "2026-11-13T00:00:21.610Z",
+  "updated": "2026-11-14T00:00:15.731Z",
   "count": 100,
   "data": [
     {
@@ -15,12 +15,12 @@
     },
     {
       "name": "MOODYZ",
-      "video_count": 1056,
+      "video_count": 1058,
       "url": "https://ja7play.com/tw/category/manufacturer/MOODYZ"
     },
     {
       "name": "無資料",
-      "video_count": 731,
+      "video_count": 733,
       "url": "https://ja7play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -119,14 +119,14 @@
       "url": "https://ja7play.com/tw/category/manufacturer/rebecca"
     },
     {
+      "name": "First Star",
+      "video_count": 159,
+      "url": "https://ja7play.com/tw/category/manufacturer/First%20Star"
+    },
+    {
       "name": "無垢",
       "video_count": 158,
       "url": "https://ja7play.com/tw/category/manufacturer/%E7%84%A1%E5%9E%A2"
-    },
-    {
-      "name": "First Star",
-      "video_count": 156,
-      "url": "https://ja7play.com/tw/category/manufacturer/First%20Star"
     },
     {
       "name": "E-BODY",
@@ -220,7 +220,7 @@
     },
     {
       "name": "mercury（マーキュリー）",
-      "video_count": 79,
+      "video_count": 80,
       "url": "https://ja7play.com/tw/category/manufacturer/mercury%EF%BC%88%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%BC%EF%BC%89"
     },
     {
@@ -249,14 +249,14 @@
       "url": "https://ja7play.com/tw/category/manufacturer/intec%20inc"
     },
     {
+      "name": "h.m.p",
+      "video_count": 68,
+      "url": "https://ja7play.com/tw/category/manufacturer/h.m.p"
+    },
+    {
       "name": "グローバルメディアエンタテインメント",
       "video_count": 68,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88"
-    },
-    {
-      "name": "h.m.p",
-      "video_count": 67,
-      "url": "https://ja7play.com/tw/category/manufacturer/h.m.p"
     },
     {
       "name": "グローバルメディアアネックス",
@@ -470,7 +470,7 @@
     },
     {
       "name": "dahlia",
-      "video_count": 28,
+      "video_count": 29,
       "url": "https://ja7play.com/tw/category/manufacturer/dahlia"
     },
     {
