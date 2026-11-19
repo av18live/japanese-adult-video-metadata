@@ -1,11 +1,11 @@
 {
   "source": "https://ja7play.com",
-  "updated": "2026-11-18T00:00:17.837Z",
+  "updated": "2026-11-19T00:00:17.472Z",
   "count": 100,
   "data": [
     {
       "name": "ABSOLUTELY FANTASIA",
-      "video_count": 1393,
+      "video_count": 1395,
       "url": "https://ja7play.com/tw/category/manufacturer/ABSOLUTELY%20FANTASIA"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "SOD",
-      "video_count": 580,
+      "video_count": 581,
       "url": "https://ja7play.com/tw/category/manufacturer/SOD"
     },
     {
@@ -354,14 +354,14 @@
       "url": "https://ja7play.com/tw/category/manufacturer/KARMA"
     },
     {
+      "name": "ミセスの素顔/エマニエル",
+      "video_count": 45,
+      "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%9F%E3%82%BB%E3%82%B9%E3%81%AE%E7%B4%A0%E9%A1%94%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
+    },
+    {
       "name": "メディアブランド",
       "video_count": 45,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89"
-    },
-    {
-      "name": "ミセスの素顔/エマニエル",
-      "video_count": 44,
-      "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%9F%E3%82%BB%E3%82%B9%E3%81%AE%E7%B4%A0%E9%A1%94%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
       "name": "aircontrol",
@@ -454,6 +454,11 @@
       "url": "https://ja7play.com/tw/category/manufacturer/%E5%85%89%E5%A4%9C%E8%9D%B6"
     },
     {
+      "name": "TRANS CLUB",
+      "video_count": 31,
+      "url": "https://ja7play.com/tw/category/manufacturer/TRANS%20CLUB"
+    },
+    {
       "name": "dahlia",
       "video_count": 31,
       "url": "https://ja7play.com/tw/category/manufacturer/dahlia"
@@ -462,11 +467,6 @@
       "name": "K.M.P.",
       "video_count": 30,
       "url": "https://ja7play.com/tw/category/manufacturer/K.M.P."
-    },
-    {
-      "name": "TRANS CLUB",
-      "video_count": 30,
-      "url": "https://ja7play.com/tw/category/manufacturer/TRANS%20CLUB"
     },
     {
       "name": "prestige",
