@@ -1,6 +1,6 @@
 {
   "source": "https://ja7play.com",
-  "updated": "2026-11-20T00:00:19.996Z",
+  "updated": "2026-11-21T00:00:17.383Z",
   "count": 100,
   "data": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "無資料",
-      "video_count": 737,
+      "video_count": 739,
       "url": "https://ja7play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -120,7 +120,7 @@
     },
     {
       "name": "rebecca",
-      "video_count": 162,
+      "video_count": 166,
       "url": "https://ja7play.com/tw/category/manufacturer/rebecca"
     },
     {
@@ -280,12 +280,12 @@
     },
     {
       "name": "milk",
-      "video_count": 61,
+      "video_count": 63,
       "url": "https://ja7play.com/tw/category/manufacturer/milk"
     },
     {
       "name": "レイディックス",
-      "video_count": 61,
+      "video_count": 62,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%AC%E3%82%A4%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9"
     },
     {
@@ -449,6 +449,11 @@
       "url": "https://ja7play.com/tw/category/manufacturer/%E7%86%9F%E5%A5%B3%E5%A1%BE%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
+      "name": "dahlia",
+      "video_count": 32,
+      "url": "https://ja7play.com/tw/category/manufacturer/dahlia"
+    },
+    {
       "name": "光夜蝶",
       "video_count": 32,
       "url": "https://ja7play.com/tw/category/manufacturer/%E5%85%89%E5%A4%9C%E8%9D%B6"
@@ -457,11 +462,6 @@
       "name": "TRANS CLUB",
       "video_count": 31,
       "url": "https://ja7play.com/tw/category/manufacturer/TRANS%20CLUB"
-    },
-    {
-      "name": "dahlia",
-      "video_count": 31,
-      "url": "https://ja7play.com/tw/category/manufacturer/dahlia"
     },
     {
       "name": "K.M.P.",
