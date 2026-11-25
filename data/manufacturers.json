@@ -1,6 +1,6 @@
 {
   "source": "https://ja7play.com",
-  "updated": "2026-11-24T00:00:18.214Z",
+  "updated": "2026-11-25T00:00:17.229Z",
   "count": 100,
   "data": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "SOD",
-      "video_count": 581,
+      "video_count": 587,
       "url": "https://ja7play.com/tw/category/manufacturer/SOD"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "name": "センタービレッジ",
-      "video_count": 354,
+      "video_count": 361,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%E3%83%83%E3%82%B8"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "VENUS",
-      "video_count": 273,
+      "video_count": 274,
       "url": "https://ja7play.com/tw/category/manufacturer/VENUS"
     },
     {
@@ -84,14 +84,14 @@
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%82%BB%E3%83%AC%E3%83%96%E3%81%AE%E5%8F%8B"
     },
     {
+      "name": "本中",
+      "video_count": 228,
+      "url": "https://ja7play.com/tw/category/manufacturer/%E6%9C%AC%E4%B8%AD"
+    },
+    {
       "name": "Fitch",
       "video_count": 227,
       "url": "https://ja7play.com/tw/category/manufacturer/Fitch"
-    },
-    {
-      "name": "本中",
-      "video_count": 227,
-      "url": "https://ja7play.com/tw/category/manufacturer/%E6%9C%AC%E4%B8%AD"
     },
     {
       "name": "溜池五郎",
@@ -195,7 +195,7 @@
     },
     {
       "name": "桃太郎映像出版",
-      "video_count": 103,
+      "video_count": 107,
       "url": "https://ja7play.com/tw/category/manufacturer/%E6%A1%83%E5%A4%AA%E9%83%8E%E6%98%A0%E5%83%8F%E5%87%BA%E7%89%88"
     },
     {
@@ -275,12 +275,12 @@
     },
     {
       "name": "ksb企画/エマニエル",
-      "video_count": 64,
+      "video_count": 65,
       "url": "https://ja7play.com/tw/category/manufacturer/ksb%E4%BC%81%E7%94%BB%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
       "name": "milk",
-      "video_count": 63,
+      "video_count": 65,
       "url": "https://ja7play.com/tw/category/manufacturer/milk"
     },
     {
@@ -429,6 +429,11 @@
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%9D%E3%82%B9"
     },
     {
+      "name": "dahlia",
+      "video_count": 34,
+      "url": "https://ja7play.com/tw/category/manufacturer/dahlia"
+    },
+    {
       "name": "mr.michiru",
       "video_count": 34,
       "url": "https://ja7play.com/tw/category/manufacturer/mr.michiru"
@@ -437,11 +442,6 @@
       "name": "NON",
       "video_count": 33,
       "url": "https://ja7play.com/tw/category/manufacturer/NON"
-    },
-    {
-      "name": "dahlia",
-      "video_count": 33,
-      "url": "https://ja7play.com/tw/category/manufacturer/dahlia"
     },
     {
       "name": "hsoda",
@@ -474,14 +474,14 @@
       "url": "https://ja7play.com/tw/category/manufacturer/prestige"
     },
     {
+      "name": "faleno",
+      "video_count": 29,
+      "url": "https://ja7play.com/tw/category/manufacturer/faleno"
+    },
+    {
       "name": "あたご屋/エマニエル",
       "video_count": 29,
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%81%82%E3%81%9F%E3%81%94%E5%B1%8B%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
-    },
-    {
-      "name": "faleno",
-      "video_count": 28,
-      "url": "https://ja7play.com/tw/category/manufacturer/faleno"
     },
     {
       "name": "无资料",
