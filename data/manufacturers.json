@@ -1,6 +1,6 @@
 {
   "source": "https://ja7play.com",
-  "updated": "2026-11-25T00:00:17.229Z",
+  "updated": "2026-11-26T00:00:19.811Z",
   "count": 100,
   "data": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "無資料",
-      "video_count": 739,
+      "video_count": 740,
       "url": "https://ja7play.com/tw/category/manufacturer/%E7%84%A1%E8%B3%87%E6%96%99"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "name": "SOD",
-      "video_count": 587,
+      "video_count": 588,
       "url": "https://ja7play.com/tw/category/manufacturer/SOD"
     },
     {
@@ -65,12 +65,12 @@
     },
     {
       "name": "水晶映像",
-      "video_count": 261,
+      "video_count": 262,
       "url": "https://ja7play.com/tw/category/manufacturer/%E6%B0%B4%E6%99%B6%E6%98%A0%E5%83%8F"
     },
     {
       "name": "gloryquest",
-      "video_count": 260,
+      "video_count": 261,
       "url": "https://ja7play.com/tw/category/manufacturer/gloryquest"
     },
     {
@@ -139,14 +139,14 @@
       "url": "https://ja7play.com/tw/category/manufacturer/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB"
     },
     {
+      "name": "オーロラプロジェクト・アネックス",
+      "video_count": 150,
+      "url": "https://ja7play.com/tw/category/manufacturer/%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
+    },
+    {
       "name": "S-Cute",
       "video_count": 149,
       "url": "https://ja7play.com/tw/category/manufacturer/S-Cute"
-    },
-    {
-      "name": "オーロラプロジェクト・アネックス",
-      "video_count": 149,
-      "url": "https://ja7play.com/tw/category/manufacturer/%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%82%A2%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B9"
     },
     {
       "name": "RUBY",
@@ -275,7 +275,7 @@
     },
     {
       "name": "ksb企画/エマニエル",
-      "video_count": 65,
+      "video_count": 66,
       "url": "https://ja7play.com/tw/category/manufacturer/ksb%E4%BC%81%E7%94%BB%2F%E3%82%A8%E3%83%9E%E3%83%8B%E3%82%A8%E3%83%AB"
     },
     {
